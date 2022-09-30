@@ -11,4 +11,4 @@
 
 ## **📚 Contents**
 
-### **1. [Computer Science](https://github.com/lunchScreen/Interview_Questions/blob/main/ComputerScience.md)**
+### **1. dd**
