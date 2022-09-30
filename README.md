@@ -13,14 +13,14 @@
 
 ### 📌 CS
 ### **[1. Computer Architecture](ComputerArchitecture.md)**
-### **[2. Data Structure]()**
-### **[3. Operating System]()**
-### **[4. Database]()**
-### **[5. Network]()**
-### **[6. Software Engineering]()**
+### **[2. Data Structure](DataStructure.md)**
+### **[3. Operating System](OperatingSystem.md)**
+### **[4. Database](DataBase.md)**
+### **[5. Network](Network.md)**
+### **[6. Software Engineering](SoftwareEngineering.md)**
 
 ### 📌 ETC
-### **[1. algorithm]()**
-### **[2. Design Pattern]()**
-### **[3. Web]()**
-### **[4. Etc]()**
+### **[1. algorithm](Algorithm.md)**
+### **[2. Design Pattern](DesignPattern.md)**
+### **[3. Web](web.md)**
+### **[4. Etc](Etc.md)**
