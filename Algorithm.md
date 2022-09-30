@@ -3,7 +3,7 @@
 ##### [알고리즘 계획표](https://www.notion.so/1-1-a00c9df78336461fb1f1a2f2920e8789)
 ##### [1일 1알고 진도 확인](https://www.notion.so/1-1-712048067cfc47e09eee13d0bbab838c)
 
-### 📌 Algorithm
+### 📌 이론
 - 거품 정렬(Bubble Sort)
 - 선택 정렬(Selection Sort)
 - 삽입 정렬(Insertion Sort)
