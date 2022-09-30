@@ -1,4 +1,4 @@
-# 📌 Opearing System
+# ✨ Opearing System
 
 - 운영체제란?
 - 프로세스와 스레드
@@ -16,7 +16,7 @@
 - 메모리(Memory)
 - 파일 시스템(File System)
 
-### 예상 질문
+### 📌 예상 질문
 
 - 프로세스와 스레드의 차이점에 대해 설명하시오.
 - Race Condition에 대해 설명하시오.
@@ -52,7 +52,7 @@
 - Readers and Writers Problem
 - Dining Philosophers Problem
 
-### **Advanced**
+### 📌 **Advanced**
 
 - Call Stack에 대해 설명하시오
 - Heap Corruption에 대해 설명하시오
