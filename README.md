@@ -11,4 +11,16 @@
 
 ## **📚 Contents**
 
-### **1. dd**
+### 📌 CS
+### **[1. Computer Architecture](ComputerArchitecture.md)**
+### **[2. Data Structure]()**
+### **[3. Operating System]()**
+### **[4. Database]()**
+### **[5. Network]()**
+### **[6. Software Engineering]()**
+
+### 📌 ETC
+### **[1. algorithm]()**
+### **[2. Design Pattern]()**
+### **[3. Web]()**
+### **[4. Etc]()**
