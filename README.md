@@ -12,15 +12,25 @@
 ## **📚 Contents**
 
 ### 📌 CS
-### **[1. Computer Architecture](ComputerArchitecture.md)**
-### **[2. Data Structure](DataStructure.md)**
-### **[3. Operating System](OperatingSystem.md)**
-### **[4. Database](DataBase.md)**
-### **[5. Network](Network.md)**
-### **[6. Software Engineering](SoftwareEngineering.md)**
+
+### **[1. Computer Architecture](https://github.com/SeoYeonBae/CS_study/tree/main/ComputerArchitecture)**
+
+### **[2. Data Structure](https://github.com/SeoYeonBae/CS_study/tree/main/DataStructure)**
+
+### **[3. Operating System](https://github.com/SeoYeonBae/CS_study/tree/main/OperatingSystem)**
+
+### **[4. Database](https://github.com/SeoYeonBae/CS_study/tree/main/DataBase)**
+
+### **[5. Network](https://github.com/SeoYeonBae/CS_study/tree/main/Network)**
+
+### **[6. Software Engineering](https://github.com/SeoYeonBae/CS_study/tree/main/SoftwareEngineering)**
 
 ### 📌 ETC
-### **[1. algorithm](Algorithm.md)**
-### **[2. Design Pattern](DesignPattern.md)**
-### **[3. Web](web.md)**
-### **[4. Etc](Etc.md)**
+
+### **[1. algorithm](https://github.com/SeoYeonBae/CS_study/tree/main/Algoritm)**
+
+### **[2. Design Pattern](https://github.com/SeoYeonBae/CS_study/tree/main/DesignPattern)**
+
+### **[3. Web](https://github.com/SeoYeonBae/CS_study/tree/main/web)**
+
+### **[4. Etc](https://github.com/SeoYeonBae/CS_study/tree/main/Etc)**
