@@ -1,7 +1,12 @@
+<div align="center">
+   
 # :crown: 서서쥬쥬의 CS 짱터디
 
-<div align="center">
+[![Since](https://img.shields.io/badge/since-2019.03.01-333333.svg?style=flat-square)](https://github.com/SeoYeonBae/CS_study)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeoYeonBae%2FCS_study&count_bg=%23000000&title_bg=%23EFB0E9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Watch on GitHub](https://img.shields.io/github/watchers/gyoogle/tech-interview-for-developer.svg?style=social)](https://github.com/SeoYeonBae/CS_study/watchers)
 
+   
 ## :heart:Collaborator:heart:
 [<img src="https://user-images.githubusercontent.com/101535851/197534463-7804a8d6-13fc-427a-8e5f-533356329d64.png" width = 100>](https://github.com/SeoYeonBae)
 [<img src="https://user-images.githubusercontent.com/101535851/197529689-8f333988-5396-4528-862f-78143f94e0de.png" width = 100>](https://github.com/YunjooK)
