@@ -4,7 +4,6 @@
 
 [![Since](https://img.shields.io/badge/since-2022.10.19-333333.svg?style=flat-square)](https://github.com/SeoYeonBae/CS_study)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeoYeonBae%2FCS_study&count_bg=%23000000&title_bg=%23EFB0E9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Watch on GitHub](https://img.shields.io/github/watchers/gyoogle/tech-interview-for-developer.svg?style=social)](https://github.com/SeoYeonBae/CS_study/watchers)
 
    
 ## :heart:Collaborator:heart:
