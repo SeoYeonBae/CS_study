@@ -3,6 +3,7 @@
 <div align="center">
 
 ## :heart:Collaborator:heart:
+[<img src="https://user-images.githubusercontent.com/101535851/197534463-7804a8d6-13fc-427a-8e5f-533356329d64.png" width = 100>](https://github.com/SeoYeonBae)
 [<img src="https://user-images.githubusercontent.com/101535851/197529689-8f333988-5396-4528-862f-78143f94e0de.png" width = 100>](https://github.com/YunjooK)
 [<img src="https://user-images.githubusercontent.com/101535851/197529776-f8dae22d-ad7c-4f4d-9888-ed80dc32b277.png" width = 100>](https://github.com/seoyeong8081)
 [<img src="https://user-images.githubusercontent.com/101535851/197529807-4bed4445-f2f0-43ce-80ab-645d9cc88c92.png" width = 100>](https://github.com/jangyejoo)
