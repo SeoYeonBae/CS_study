@@ -36,3 +36,4 @@
 - API Gateway란 무엇인가요?
 - 흐름제어 / 혼잡제어 / 오류제어
 - JSON과 XML을 비교하시오.
+- Stateless와 Stateful 개념에 대해 설명하시오.(Http, REST 관련)
