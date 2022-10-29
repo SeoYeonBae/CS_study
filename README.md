@@ -1,6 +1,6 @@
 <div align="center">
    
-# :crown: 서서쥬쥬의 CS 짱터디
+# :crown: 공쥬들의 CS 짱터디
 
 [![Since](https://img.shields.io/badge/since-2022.10.19-333333.svg?style=flat-square)](https://github.com/SeoYeonBae/CS_study)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeoYeonBae%2FCS_study&count_bg=%23000000&title_bg=%23EFB0E9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -11,7 +11,7 @@
 [<img src="https://user-images.githubusercontent.com/101535851/197529689-8f333988-5396-4528-862f-78143f94e0de.png" width = 100>](https://github.com/YunjooK)
 [<img src="https://user-images.githubusercontent.com/101535851/197529776-f8dae22d-ad7c-4f4d-9888-ed80dc32b277.png" width = 100>](https://github.com/seoyeong8081)
 [<img src="https://user-images.githubusercontent.com/101535851/197529807-4bed4445-f2f0-43ce-80ab-645d9cc88c92.png" width = 100>](https://github.com/jangyejoo)
-
+[<img src="https://user-images.githubusercontent.com/101535851/198839477-67b2efc8-a772-4bca-ac8b-51768ded8ae2.png" width = 100>](https://github.com/Han7sunny)
 </div>
 
 ## **:sparkles: 진행방법**
