@@ -5,7 +5,7 @@
 - 배열(Array)
 - 연결 리스트(Linked List)
 - Array & ArrayList & LinkedList
-- 스택 & 큐
+- [스택 & 큐](https://github.com/SeoYeonBae/CS_study/blob/main/DataStructure/%ec%8a%a4%ed%83%9d%26%ed%81%90.md)
 - 힙(Heap)
 - 트리(Tree)
 - 이진 탐색 트리
