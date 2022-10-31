@@ -2,7 +2,7 @@
 
 ### 📌 이론
 
-- 배열(Array)
+- [배열(Array)](https://github.com/SeoYeonBae/CS_study/blob/main/DataStructure/%EB%B0%B0%EC%97%B4(Array).md)
 - 연결 리스트(Linked List)
 - Array & ArrayList & LinkedList
 - [스택 & 큐](https://github.com/SeoYeonBae/CS_study/blob/main/DataStructure/%ec%8a%a4%ed%83%9d%26%ed%81%90.md)
