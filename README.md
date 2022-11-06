@@ -35,7 +35,10 @@
 - 2주차 : 11/2
    
    > [컴퓨터의 구성, ARM 프로세서](https://github.com/SeoYeonBae/CS_study/tree/main/ComputerArchitecture),  [배열, 스택과 큐](https://github.com/SeoYeonBae/CS_study/tree/main/DataStructure)
-   
+  
+- 3주차 : 11/9
+
+   > [연결리스트, 힙, 트리, 해시, 트라이](https://github.com/SeoYeonBae/CS_study/tree/main/DataStructure)
    
 ## **📚 Contents**
 
