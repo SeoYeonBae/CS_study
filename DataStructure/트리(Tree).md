@@ -1,15 +1,15 @@
 # 📌 트리
-### 1. 개요
+### 1. 개념
 
 - 값을 가진 Node와 이 노드들을 연결해주는 Edge로 이루어진 자료구조
-- 루트 노드
+- 하나의 루트 노드
 - 모든 노드들은 0개 이상의 자식 노드를 가지고 있으며 보통 부모-자식 관계로 부른다
 
 ---
 
 ### 2. 특징
 
-- **사이클**이 존재하지 않음 (사이클 있으면 그래프)
+- **사이클**이 존재하지 않는 하나의 연결 그래프 (사이클 있으면 그래프)
 - 모든 노드는 자료형으로 표현이 가능
 - 루트에서 한 노드로 가는 경로는 유일하다
 - 노드의 개수가 N개면, 간선은 N-1개를 가진다
@@ -61,3 +61,4 @@ public class Tree<T> {
 ### 참고
 
 - [https://gyoogle.dev/blog/computer-science/data-structure/Tree.html](https://gyoogle.dev/blog/computer-science/data-structure/Tree.html)
+- [https://gmlwjd9405.github.io/2018/08/12/data-structure-tree.html](https://gmlwjd9405.github.io/2018/08/12/data-structure-tree.html)
