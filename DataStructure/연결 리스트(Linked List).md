@@ -38,8 +38,8 @@
 <br>
 
 - 삽입할 위치를 찾는다
-- 새로운 node의 주소 값을 Node pointer로 연결해준다.
-- 새로운 node의 pointer를 그 다음 Node의 주소값에 연결한다.
+- 새로운 Node의 주소 값을 Node pointer로 연결해준다.
+- 새로운 Node의 pointer를 그 다음 Node의 주소값에 연결한다.
 
 <br><br>
 
@@ -47,15 +47,15 @@
 
 ![image](https://user-images.githubusercontent.com/63834758/200342636-c7652a4a-779e-4fb7-b726-23ba428856f0.png)
 
-- head 삭제 :  head의 다음 node가 head가 되도록 변경한다.
-- tail 삭제 : tail 앞에 있는 node의 주소값을 null로 변경한다.
-- 중간 node 삭제 : node의 pointer를 node.next에서 node.next.next로 바꾸어 연결해주고 node.next를 삭제한다.
+- head 삭제 :  head의 다음 Node가 head가 되도록 변경한다.
+- tail 삭제 : tail 앞에 있는 Node의 주소값을 null로 변경한다.
+- 중간 Node 삭제 : Node의 pointer를 Node.next에서 Node.next.next로 바꾸어 연결해주고 Node.next를 삭제한다.
  
 
 
 ## 4. 시간복잡도
 
-- **검색, 삽입, 삭제** 모두 해당 node를 찾아가기 위해 모든 요소를 **sequential access(순차접근)** 해야 하므로 O(n)
+- **검색, 삽입, 삭제** 모두 해당 Node를 찾아가기 위해 모든 요소를 **sequential access(순차접근)** 해야 하므로 O(n)
 - 다만 처음과 끝에만 삽입, 삭제를 진행하는 경우에는 O(1)
 
 <br>
@@ -66,7 +66,7 @@
 ![image](https://user-images.githubusercontent.com/63834758/200342729-6fded566-8156-45df-b597-648fc47ed5a6.png)
 
 
-- 이중 연결 리스트 : node의 pointer가 이전 node, 다음 node를 모두 가리키고 있다. (양방향 연결)
+- 이중 연결 리스트 : Node의 pointer가 이전 Node, 다음 Node를 모두 가리키고 있다. (양방향 연결)
 - 원형 연결 리스트
 - 다중 연결 리스트
 
