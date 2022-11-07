@@ -9,7 +9,7 @@
 - 힙(Heap)
 - [트리(Tree)](https://github.com/SeoYeonBae/CS_study/blob/main/DataStructure/%ED%8A%B8%EB%A6%AC(Tree).md)
 - 이진 탐색 트리
-- 해시(Hash)
+- [해시(Hash)](https://github.com/SeoYeonBae/CS_study/blob/main/DataStructure/%ED%95%B4%EC%8B%9C(Hash).md)
 - 트라이(Trie)
 - B Tree & B+ Tree
 
