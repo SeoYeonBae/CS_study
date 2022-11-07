@@ -51,7 +51,8 @@
 - **tail 삭제** : tail 앞에 있는 Node의 주소값을 null로 변경한다.
 - **중간 Node 삭제** : Node의 pointer를 Node.next에서 Node.next.next로 바꾸어 연결해주고 Node.next를 삭제한다.
  
-
+<br>
+<br>
 
 ## 4. 시간복잡도
 
