@@ -11,21 +11,19 @@
 
 <br>
 
-#### Node의 구성
-
-- 데이터 저장 단위 **( Data + Pointer )**
-- Pointer : 다음에 연결된 node의 주소 정보를 갖고 있다.
-- Head
-- Tail
+- **Node** : 데이터 저장 단위 ( Data + Pointer )
+- **Pointer** : 다음에 연결된 node의 주소 정보를 갖고 있다.
+- **Head**
+- **Tail**
 
 <br>
 <br>
 
 ## 2. 특징
 
-- 자료(Node)들을 저장 공간에 불연속적인 단위로 저장한다.
+- 자료(Node)들을 저장 공간에 **불연속적인** 단위로 저장한다.
 - 배열과 다르게 데이터 공간을 미리 할당하지 않아도 된다.
-- 연결(pointer)를 위한 별도의 데이터 공간이 필요하므로 저장 공간 효율이 높지 않다.
+- 연결(pointer)를 위한 **별도의 데이터 공간**이 필요하므로 저장 공간 효율이 높지 않다.
 
 
 <br>
@@ -37,18 +35,21 @@
 
 ![image](https://user-images.githubusercontent.com/63834758/200341849-0e551a78-215a-4b47-b892-ef0293e792e9.png)
 
+<br>
+
 - 삽입할 위치를 찾는다
 - 새로운 node의 주소 값을 Node pointer로 연결해준다.
 - 새로운 node의 pointer를 그 다음 Node의 주소값에 연결한다.
 
+<br><br>
 
 ### (2) 삭제
 
 ![image](https://user-images.githubusercontent.com/63834758/200342636-c7652a4a-779e-4fb7-b726-23ba428856f0.png)
 
-- head 삭제 :  head의 다음 node가 head가 되도록
-- tail 삭제 : tail을 삭제할 경우 tail 앞에 있는 node의 주소값을 null로 변경한다
-- 중간 node 삭제 : 그림과 같이 node를 찾는다. node의 pointer를 node.next에서 node.next.next로 바꾸어 연결해주고 node.next를 삭제하면 된다.
+- head 삭제 :  head의 다음 node가 head가 되도록 변경한다.
+- tail 삭제 : tail 앞에 있는 node의 주소값을 null로 변경한다.
+- 중간 node 삭제 : node의 pointer를 node.next에서 node.next.next로 바꾸어 연결해주고 node.next를 삭제한다.
  
 
 
@@ -60,7 +61,7 @@
 <br>
 <br>
 
-## 5. 이외의 다양한 Linked List
+### 5. 이외의 다양한 Linked List
 
 ![image](https://user-images.githubusercontent.com/63834758/200342729-6fded566-8156-45df-b597-648fc47ed5a6.png)
 
