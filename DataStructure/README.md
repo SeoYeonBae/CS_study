@@ -7,7 +7,7 @@
 - Array & ArrayList & LinkedList
 - [스택 & 큐](https://github.com/SeoYeonBae/CS_study/blob/main/DataStructure/%ec%8a%a4%ed%83%9d%26%ed%81%90.md)
 - 힙(Heap)
-- 트리(Tree)
+- [트리(Tree)](https://github.com/SeoYeonBae/CS_study/blob/main/DataStructure/%ED%8A%B8%EB%A6%AC(Tree).md)
 - 이진 탐색 트리
 - 해시(Hash)
 - 트라이(Trie)
