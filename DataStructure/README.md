@@ -10,7 +10,7 @@
 - [트리(Tree)](https://github.com/SeoYeonBae/CS_study/blob/main/DataStructure/%ED%8A%B8%EB%A6%AC(Tree).md)
 - 이진 탐색 트리
 - [해시(Hash)](https://github.com/SeoYeonBae/CS_study/blob/main/DataStructure/%ED%95%B4%EC%8B%9C(Hash).md)
-- 트라이(Trie)
+- [트라이(Trie)](https://github.com/SeoYeonBae/CS_study/blob/main/DataStructure/%ED%8A%B8%EB%9D%BC%EC%9D%B4(Trie).md)
 - B Tree & B+ Tree
 
 ### 📌 예상 질문
