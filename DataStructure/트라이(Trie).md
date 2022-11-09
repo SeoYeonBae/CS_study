@@ -4,9 +4,11 @@
 
 ![트라이(Trie) 구조](https://user-images.githubusercontent.com/63505110/200342470-5e965b2d-cc8d-42ef-b344-43dca16ac293.png)
 
-                  
+           
+	   
+-----------------------      
 		                    
-### 시간 복잡도
+## 시간 복잡도
 
 원하는 값을 탐색하기 위해 자주 사용되는 이진 검색 트리의 시간 복잡도는 **O(logN)**
 
@@ -25,8 +27,8 @@
 시간, 공간 복잡도를 고려하여 Trie 구조를 적절히 변형하여야 하는데
                              
 이러한 공간 복잡도를 낮추기 위해 **Map** 을 사용한다.
-
-### 트라이 기본 구조
+*******************
+## 트라이 기본 구조
 
 - Trie는 자식 노드를 Map, 즉 <key,value> 형태로 지니고 있다.
     - key : 알파벳
@@ -34,9 +36,9 @@
 - 루트 노드는 특정 알파벳을 의미하지 않고 자식 노드만을 지닌다.
 - 루트 노드를 제외한 노드의 자손들은 공통 접두어를 지닌다.
 
-### 구현
+## 구현
 
-```jsx
+```java
 public class TrieNode{
 
 	// 자식 노드 맵
@@ -50,7 +52,7 @@ public class TrieNode{
 }
 ```
 
-```jsx
+```java
 public class Trie{
 
 	// 루트 노드
@@ -98,10 +100,10 @@ public class Trie{
 		
 		 삭제 조건
 			1. 삭제하려는 단어는 자식 노드를 지니고 있지 않아야 한다.
-			  - 삭제하려는 단어를 접두어로 지닌 단어 또한 삭제되기 때문
+			   - 삭제하려는 단어를 접두어로 지닌 단어 또한 삭제되기 때문
 			2. 삭제하려는 단어의 마지막 노드 즉, 탐색이 끝나고 삭제를 시작할 첫 노드의 isLast는 true여야 한다.
 			3. 삭제를 진행하며 지나치는 노드의 isLast는 false여야 한다.
-				- 삭제 진행 중 isLast가 true이면 Trie에 존재하는 또다른 단어를 포함하고 있다는 의미
+			   - 삭제 진행 중 isLast가 true이면 Trie에 존재하는 또다른 단어를 포함하고 있다는 의미
 	*/
 	void delete(String word) {
 		delete(this.rootNode, word, 0); // 최초로 delete 던지는 부분
@@ -110,25 +112,28 @@ public class Trie{
 	private boolean delete(TrieNode thisNode, String word, int index) {
 			
 		if (index == word.length()) { // 탐색해오면서 isLast() == true인 단어 발견 X
-        if (!thisNode.isLast()) { // 삭제 조건 2번 위배
-            return false;
-        }
-        thisNode.setIsLast(false);
-        return thisNode.getChildNodes().isEmpty();
-    }
+			if (!thisNode.isLast()) { // 삭제 조건 2번 위배
+			    return false;
+			}
+			thisNode.setIsLast(false);
+			return thisNode.getChildNodes().isEmpty(); // 삭제 조건 1번
+		}
 
-    char ch = word.charAt(index);
-    TrieNode node = thisNode.getChildNodes().get(ch);
-    if (node == null) {
-        return false;
-    }
-    boolean shouldDeleteCurrentNode = delete(node, word, index + 1) && !node.isLast();
+    		char ch = word.charAt(index);
+    		TrieNode node = thisNode.getChildNodes().get(ch);
+    		if (node == null) {
+        		return false; // 해당 단어 존재하지 않음
+    		}
 		
-    if (shouldDeleteCurrentNode) {
-        thisNode.getChildNodes().remove(ch);
-        return thisNode.getChildNodes().isEmpty();
-    }
-    return false;
+		// 삭제 조건 1번, 3번
+		// 자식 노드를 지니고 있지 않고, 해당 노드로 끝나는 단어가 존재하지 않음 -> 해당 노드 삭제 가능
+    		boolean shouldDeleteCurrentNode = delete(node, word, index + 1) && !node.isLast(); 
+		
+    		if (shouldDeleteCurrentNode) {
+        		thisNode.getChildNodes().remove(ch);
+        		return thisNode.getChildNodes().isEmpty(); // 삭제 조건 1번
+    		}
+    		return false;
 		
 	}
 }
