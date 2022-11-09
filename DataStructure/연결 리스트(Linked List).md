@@ -26,6 +26,9 @@
 - 연결(pointer)를 위한 **별도의 데이터 공간**이 필요하므로 저장 공간 효율이 높지 않다.
 
 
+![image](https://user-images.githubusercontent.com/63834758/200721995-bb9f59d4-aeaf-4134-ad72-f48e4364f037.png)
+
+
 <br>
 <br>
 
@@ -67,9 +70,10 @@
 ![image](https://user-images.githubusercontent.com/63834758/200342729-6fded566-8156-45df-b597-648fc47ed5a6.png)
 
 
+
+- 원형 연결 리스트 : head와 tail이 연결되어 있는 리스트
+- 다중 연결 리스트 : 양방향 탐색이 가능한 연결리스트
 - 이중 연결 리스트 : Node의 pointer가 이전 Node, 다음 Node를 모두 가리키고 있다. (양방향 연결)
-- 원형 연결 리스트
-- 다중 연결 리스트
 
 <hr>
 
