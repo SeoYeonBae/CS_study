@@ -14,7 +14,7 @@
 - [B Tree & B+ Tree](https://github.com/SeoYeonBae/CS_study/blob/main/DataStructure/B%20Tree%20%26%20B%2B%20Tree.md)
 
 ### 📌 예상 질문
-- 스택과 큐에 대해서 설명해 주세요.
+- [스택과 큐에 대해서 설명해 주세요.](https://github.com/SeoYeonBae/CS_study/issues/1)
 - 해시테이블에 대해서 설명해 주세요.
 - 배열과 링크드 리스트의 차이점에 대해서 설명해 주세요.
 - LinkedList vs ArrayList의 차이점에 대해 설명하시오 (+Array는 추가적인 메모리 확보가 )
