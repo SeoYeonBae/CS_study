@@ -40,6 +40,10 @@
 
    > [연결리스트, 힙, 트리, 해시, 트라이](https://github.com/SeoYeonBae/CS_study/tree/main/DataStructure)
    
+- 4주차 : 11/23
+
+   > [Array & ArrayList & LinkedList, 이진 탐색 트리, B Tree & B+ Tree](https://github.com/SeoYeonBae/CS_study/tree/main/DataStructure), [운영체제란?, 프로세서 & 프로세스 & 스레드](https://github.com/SeoYeonBae/CS_study/tree/main/OperatingSystem)
+   
 ## **📚 Contents**
 
 ### 📌 CS
