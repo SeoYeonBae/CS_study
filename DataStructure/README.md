@@ -8,7 +8,7 @@
 - [스택 & 큐](https://github.com/SeoYeonBae/CS_study/blob/main/DataStructure/%ec%8a%a4%ed%83%9d%26%ed%81%90.md)
 - [힙(Heap)](https://github.com/SeoYeonBae/CS_study/blob/main/DataStructure/%ed%9e%99(Heap).md)
 - [트리(Tree)](https://github.com/SeoYeonBae/CS_study/blob/main/DataStructure/%ED%8A%B8%EB%A6%AC(Tree).md)
-- 이진 탐색 트리
+- [이진 탐색 트리](https://github.com/SeoYeonBae/CS_study/blob/main/DataStructure/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%ED%8A%B8%EB%A6%AC.md)
 - [해시(Hash)](https://github.com/SeoYeonBae/CS_study/blob/main/DataStructure/%ED%95%B4%EC%8B%9C(Hash).md)
 - [트라이(Trie)](https://github.com/SeoYeonBae/CS_study/blob/main/DataStructure/%ED%8A%B8%EB%9D%BC%EC%9D%B4(Trie).md)
 - [B Tree & B+ Tree](https://github.com/SeoYeonBae/CS_study/blob/main/DataStructure/B%20Tree%20%26%20B%2B%20Tree.md)
