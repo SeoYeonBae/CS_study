@@ -18,6 +18,9 @@
 
 - Array와 같이 index를 가지므로 **데이터 접근 속도가 빠르다.**
 - 처음 또는 마지막이 아닌 중간에 삽입 & 삭제할 경우 **O(N)**
+<br>
+
+![image](https://user-images.githubusercontent.com/63834758/204771848-f3e300e3-453a-4f72-89bf-4e1fb0179221.png)
 
 <br>
 <br>
@@ -38,10 +41,10 @@
 ## 4. 정리
 
 | 기준          | Array         | ArrayList | LinkedList         |
-| ------------- | ------------- | --------- | ------------------ |
-| 검색 속도     | 빠름 (무작위) | 빠름      | 느림 (순차)        |
-| 삽입 및 삭제  | 효율          | 비효율    | 비효율             |
-| 저장공간 낭비 | 중간 (null)   | 낮음      | 높음 (포인터 사용) |
+| :-------------: | :-------------: | :---------: | :------------------: |
+| **검색 속도**     | 빠름 (무작위) | 빠름      | 느림 (순차)        |
+| **삽입 및 삭제**  | 효율          | 비효율    | 비효율             |
+| **저장공간 낭비** | 중간 (null)   | 낮음      | 높음 (포인터 사용) |
 
 <br>
 <br>
@@ -55,7 +58,9 @@
 <br>
 <br>
 <hr>
+
 ### 참고
+
 - [Linked List vs Array List](https://www.nextree.co.kr/p6506/)
 
 - [Array vs ArrayList vs LinkedList](https://gwang920.github.io/datastructure/Array-ArrayList-LinkedList-%EB%B3%B5%EC%82%AC%EB%B3%B8/)
