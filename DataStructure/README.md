@@ -4,7 +4,7 @@
 
 - [배열(Array)](https://github.com/SeoYeonBae/CS_study/blob/main/DataStructure/%EB%B0%B0%EC%97%B4(Array).md)
 - [연결 리스트(Linked List)](https://github.com/SeoYeonBae/CS_study/blob/main/DataStructure/%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8(Linked%20List).md)
-- Array & ArrayList & LinkedList
+- [Array & ArrayList & LinkedList](https://github.com/SeoYeonBae/CS_study/blob/main/DataStructure/Array%20%26%20ArrayList%20%26%20LinkedList.md)
 - [스택 & 큐](https://github.com/SeoYeonBae/CS_study/blob/main/DataStructure/%ec%8a%a4%ed%83%9d%26%ed%81%90.md)
 - [힙(Heap)](https://github.com/SeoYeonBae/CS_study/blob/main/DataStructure/%ed%9e%99(Heap).md)
 - [트리(Tree)](https://github.com/SeoYeonBae/CS_study/blob/main/DataStructure/%ED%8A%B8%EB%A6%AC(Tree).md)
