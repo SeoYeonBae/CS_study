@@ -20,7 +20,7 @@
 - 동기화 필요(Producer-Consumer Problem: 아무것도 없는 상태에서 소비하려하거나 shared memory가 꽉찬 상태에서 생산하려 한다면 문제 발생)
 - buffer를 지속적으로 확인하는 monitoring
 
-![image](https://user-images.githubusercontent.com/54051304/207100050-fa2e88ac-332a-4680-93c7-9ce7c5abaf2c.png)
+![image](https://user-images.githubusercontent.com/54051304/207102027-e19e5c99-c8d6-490c-9a91-7452907835ec.png)
 
 
 ---
