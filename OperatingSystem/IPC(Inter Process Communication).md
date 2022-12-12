@@ -6,8 +6,24 @@
 - 커널이 제공하는 IPC 설비를 이용해 프로세스 간 통신을 함
 
 ---
+## :computer: IPC의 두가지 모델
+:heavy_check_mark: Message Passing
+- 커널을 거쳐서 메세지를 전달하는 방식
+- Kernel을 활용하기에 쉽게 구현할 수 있고 같은 파일을 전달하는 데 있어서 conflict가 발생하지 않음
+- 직접 전달에 비해 속도가 느림
+- user level과 kernel level을 넘나들기 때문에 매번 system call이 호출되고 이로 인한 overhead
+- 전달할 내용이 도착하기 전에 또 보내라는 신호를 보낸다면 -> Blocking(원하는 작업을 수행할 때까지 나머지 차단) / Non-blocking(막지 않고 그대로 반응)
+
+:heavy_check_mark: Shared Memory
+- 프로세스들이 공유하는 메모리를 이용해 통신
+- 생산자 프로세스가 공유 메모리(buffer)에 item을 생산하고 저장하면, 소비자 프로세스가 이를 읽고 소비
+- 동기화 필요(Producer-Consumer Problem: 아무것도 없는 상태에서 소비하려하거나 shared memory가 꽉찬 상태에서 생산하려 한다면 문제 발생)
+- buffer를 지속적으로 확인하는 monitoring
+
+![image](https://user-images.githubusercontent.com/54051304/207100050-fa2e88ac-332a-4680-93c7-9ce7c5abaf2c.png)
 
 
+---
 ## :computer: IPC 종류
 :heavy_check_mark: 익명 PIPE
 - 한쪽 방향으로만 통신이 가능한 반이중 통신
