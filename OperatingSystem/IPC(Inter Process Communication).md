@@ -66,3 +66,4 @@
 참고
 
 - [tech-interview-for-developer IPC(Inter-Process Comminication)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/IPC(Inter%20Process%20Communication).md)
+- [https://talkingaboutme.tistory.com/entry/Process-Inter-Process-Communication-IPC](https://talkingaboutme.tistory.com/entry/Process-Inter-Process-Communication-IPC)
