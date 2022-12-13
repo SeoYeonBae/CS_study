@@ -20,11 +20,11 @@
 - [LinkedList vs ArrayList의 차이점에 대해 설명하시오 (+Array는 추가적인 메모리 확보가)](https://github.com/SeoYeonBae/CS_study/issues/4)
 
 ### 📌 **Tree 예상 질문**
-- 그래프와 트리의 차이점에 대해서 설명해 주세요.
-- 힙 자료구조에 대해 설명해 주세요.
-- 힙의 삽입과 삭제는 어떻게 이루어지나요?
-- 포화(Perfect) 이진트리, 완전(Complete) 이진트리, 정(Full) 이진트리의 차이점에 대해 각각 설명해주세요
-- Binary Search Tree
+- [그래프와 트리의 차이점에 대해서 설명해 주세요.](https://github.com/SeoYeonBae/CS_study/issues/5)
+- [힙 자료구조에 대해 설명해 주세요.](https://github.com/SeoYeonBae/CS_study/issues/6)
+- [힙의 삽입과 삭제는 어떻게 이루어지나요?](https://github.com/SeoYeonBae/CS_study/issues/7)
+- [포화(Perfect) 이진트리, 완전(Complete) 이진트리, 정(Full) 이진트리의 차이점에 대해 각각 설명해주세요.](https://github.com/SeoYeonBae/CS_study/issues/8)
+- [Binary Search Tree에 대해 설명해주세요.](https://github.com/SeoYeonBae/CS_study/issues/9)
 - 레드 블랙 트리에 대해 설명해주세요.
 - 레드 블랙 트리의 삽입과 삭제 과정에 대해서 말해보세요.
 - B-Tree에 대해서 설명해 주세요.
