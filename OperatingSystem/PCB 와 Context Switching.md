@@ -73,7 +73,7 @@ Thread 및 Process 개수 증가로 Context Switching 발생이 잦아지면, **
 #### ✔️Context Swiching과 시간 할당량
 - 시간 할당량 감소 : Context Switching, 인터럽트 횟수, Overhead 증가 / **여러 개의 프로세스가 동시에 수행되는 느낌을 가짐.**
 
-- 시간 할당량 증가 : Context Switching, 인터 럽트 횟수, Overhead가 감소 / **여러 개의 프로세스가 동시에 수행되는 느낌을 갖지 못함.**
+- 시간 할당량 증가 : Context Switching, 인터 럽트 횟수, Overhead 감소 / **여러 개의 프로세스가 동시에 수행되는 느낌을 갖지 못함.**
 
 
 <br>
