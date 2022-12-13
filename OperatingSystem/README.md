@@ -8,7 +8,7 @@
 - [인터럽트(Interrupt)](<https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/%ec%9d%b8%ed%84%b0%eb%9f%bd%ed%8a%b8(Interrupt).md>)
 - [시스템 콜(System Call)](<https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%BD%9C(System%20Call).md>)
 - PCB와 Context Switching
-- IPC(Inter Process Communication)
+- [IPC(Inter Process Communication)](https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/IPC(Inter%20Process%20Communication).md)
 - CPU 스케줄링
 - 데드락(DeadLock)
 - 경쟁 상태(Race Condition)
