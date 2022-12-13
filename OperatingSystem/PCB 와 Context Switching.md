@@ -79,7 +79,7 @@ Thread 및 Process 개수 증가로 Context Switching 발생이 잦아지면, **
 <br>
 <hr>
 
-#### 참고자료
+#### 참고
 
 - [PCB 와 Context Switching 알아보기](https://velog.io/@haero_kim/PCB-%EC%99%80-Context-Switching-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 
