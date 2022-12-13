@@ -66,7 +66,7 @@
 <br>
 
 #### ✔️Context Switching Overhead
-Thread 및 Process 개수 증가로 Context Switching 발생이 잦아지면, 프로세스의 실행을 위한 부가적인 활동(Overhead)도 잦아져 성능이 악화될 수 있다.
+Thread 및 Process 개수 증가로 Context Switching 발생이 잦아지면, 프로세스의 실행을 위한 간접적인 처리 시간 · 메모리 양(Overhead)도 증가 성능이 악화될 수 있다.
 
 <br>
 
