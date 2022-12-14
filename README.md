@@ -48,7 +48,11 @@
 
    > [프로세스 주소 공간, 인터럽트, 시스템 콜, PCB와 Context Switching, IPC](https://github.com/SeoYeonBae/CS_study/tree/main/OperatingSystem)
    
-## **📚 Contents**
+- 6주차 : 12/21
+
+   > [CPU 스케줄링, 데드락, 경쟁 상태, 세마포어와 뮤텍스](https://github.com/SeoYeonBae/CS_study/tree/main/OperatingSystem)
+   
+## **📚 Contents**
 
 ### 📌 CS
 
