@@ -8,10 +8,10 @@
 - [인터럽트(Interrupt)](<https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/%ec%9d%b8%ed%84%b0%eb%9f%bd%ed%8a%b8(Interrupt).md>)
 - [시스템 콜(System Call)](<https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%BD%9C(System%20Call).md>)
 - [PCB와 Context Switching](https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/PCB%20%EC%99%80%20Context%20Switching.md)
-- [IPC(Inter Process Communication)](https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/IPC(Inter%20Process%20Communication).md)
+- [IPC(Inter Process Communication)](<https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/IPC(Inter%20Process%20Communication).md>)
 - [CPU 스케줄링](https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/CPU%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)
 - 데드락(DeadLock)
-- 경쟁 상태(Race Condition)
+- [경쟁 상태(Race Condition)](<https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/%ea%b2%bd%ec%9f%81+%ec%83%81%ed%83%9c(Race+Condition).md>)
 - 세마포어와 뮤텍스
 - 페이징과 세그먼테이션
 - 페이지 교체 알고리즘
