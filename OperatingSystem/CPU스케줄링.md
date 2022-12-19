@@ -164,3 +164,7 @@
 ##### 참고
 - [시스템에 따른 스케줄링의 목표](https://jhnyang.tistory.com/29?category=815411)
 - [프로세스 스케줄링](https://blog.hexabrain.net/256)
+- [CPU Scheduling](https://gyoogle.dev/blog/computer-science/operating-system/CPU%20Scheduling.html)
+- [CPU 스케줄링 (CPU Scheduling)](https://runa-nam.tistory.com/88)
+- [[운영체제] CPU 스케줄링](https://steady-coding.tistory.com/509)
+- [[운영체제(OS)] 5. 프로세스 스케줄링(Process Scheduling) - 스케줄링 방법 예시 자세함](https://rebro.kr/175)
