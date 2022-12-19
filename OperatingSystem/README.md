@@ -11,7 +11,7 @@
 - [IPC(Inter Process Communication)](<https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/IPC(Inter%20Process%20Communication).md>)
 - [CPU 스케줄링](https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/CPU%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)
 - 데드락(DeadLock)
-- [경쟁 상태(Race Condition)](<https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/%ea%b2%bd%ec%9f%81+%ec%83%81%ed%83%9c(Race+Condition).md>)
+- [경쟁 상태(Race Condition)](<https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/%EA%B2%BD%EC%9F%81%20%EC%83%81%ED%83%9C(Race%20Condition).md>)
 - [세마포어와 뮤텍스](https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4%EC%99%80%20%EB%AE%A4%ED%85%8D%EC%8A%A4.md)
 - 페이징과 세그먼테이션
 - 페이지 교체 알고리즘
