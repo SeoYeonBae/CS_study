@@ -10,7 +10,7 @@
 - [PCB와 Context Switching](https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/PCB%20%EC%99%80%20Context%20Switching.md)
 - [IPC(Inter Process Communication)](<https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/IPC(Inter%20Process%20Communication).md>)
 - [CPU 스케줄링](https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/CPU%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)
-- 데드락(DeadLock)
+- [데드락(DeadLock)](https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/%EB%8D%B0%EB%93%9C%EB%9D%BD(DeadLock).md)
 - [경쟁 상태(Race Condition)](<https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/%EA%B2%BD%EC%9F%81%20%EC%83%81%ED%83%9C(Race%20Condition).md>)
 - [세마포어와 뮤텍스](https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4%EC%99%80%20%EB%AE%A4%ED%85%8D%EC%8A%A4.md)
 - 페이징과 세그먼테이션
