@@ -52,6 +52,10 @@
 
    > [CPU 스케줄링, 데드락, 경쟁 상태, 세마포어와 뮤텍스](https://github.com/SeoYeonBae/CS_study/tree/main/OperatingSystem)
    
+- 7주차 : 12/28
+
+   > [페이징과 세그먼테이션, 페이지 교체 알고리즘, 메모리(Memory), 파일 시스템(File System)](https://github.com/SeoYeonBae/CS_study/tree/main/OperatingSystem)
+
 ## **📚 Contents**
 
 ### 📌 CS
