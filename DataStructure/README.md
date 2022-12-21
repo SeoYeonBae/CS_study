@@ -25,8 +25,8 @@
 - [힙의 삽입과 삭제는 어떻게 이루어지나요?](https://github.com/SeoYeonBae/CS_study/issues/7)
 - [포화(Perfect) 이진트리, 완전(Complete) 이진트리, 정(Full) 이진트리의 차이점에 대해 각각 설명해주세요.](https://github.com/SeoYeonBae/CS_study/issues/8)
 - [Binary Search Tree에 대해 설명해주세요.](https://github.com/SeoYeonBae/CS_study/issues/9)
-- 레드 블랙 트리에 대해 설명해주세요.
-- 레드 블랙 트리의 삽입과 삭제 과정에 대해서 말해보세요.
-- B-Tree에 대해서 설명해 주세요.
-- B-Tree와 B+Tree의 차이점에 대해 설명해 주세요.
-- 최소 신장 트리에 대해서 설명해 주세요.
+- [레드 블랙 트리에 대해 설명해주세요.](https://github.com/SeoYeonBae/CS_study/issues/10)
+- [레드 블랙 트리의 삽입과 삭제 과정에 대해서 말해보세요.](https://github.com/SeoYeonBae/CS_study/issues/11)
+- [B-Tree에 대해서 설명해 주세요.](https://github.com/SeoYeonBae/CS_study/issues/12)
+- [B-Tree와 B+Tree의 차이점에 대해 설명해 주세요.](https://github.com/SeoYeonBae/CS_study/issues/13)
+- [최소 신장 트리에 대해서 설명해 주세요.](https://github.com/SeoYeonBae/CS_study/issues/14)
