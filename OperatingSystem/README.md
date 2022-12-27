@@ -15,7 +15,7 @@
 - [세마포어와 뮤텍스](https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4%EC%99%80%20%EB%AE%A4%ED%85%8D%EC%8A%A4.md)
 - [페이징과 세그먼테이션](https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/%ED%8E%98%EC%9D%B4%EC%A7%95%EA%B3%BC%20%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%85%8C%EC%9D%B4%EC%85%98.md)
 - [페이지 교체 알고리즘](https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%90%EC%B2%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
-- 메모리(Memory)
+- [메모리(Memory)](https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/%EB%A9%94%EB%AA%A8%EB%A6%AC(Memory).md)
 - [파일 시스템(File System)](https://github.com/SeoYeonBae/CS_study/blob/main/OperatingSystem/%ED%8C%8C%EC%9D%BC%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
 
 ### 📌 예상 질문
