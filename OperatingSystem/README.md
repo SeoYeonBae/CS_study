@@ -20,10 +20,10 @@
 
 ### 📌 예상 질문
 
-- 프로세스와 스레드의 차이점에 대해 설명하시오.
-- Race Condition에 대해 설명하시오.
-- 메모리가 부족하면 OS 가 어떤일을 할까?(iOS 측면도 )
-- 교착상태(데드락, Deadlock)이 발생하기위한 조건과 해결책
+- [프로세스와 스레드의 차이점에 대해 설명하시오.](https://github.com/SeoYeonBae/CS_study/issues/15)
+- [Race Condition에 대해 설명하시오.](https://github.com/SeoYeonBae/CS_study/issues/16)
+- [메모리가 부족하면 OS 가 어떤일을 할까?](https://github.com/SeoYeonBae/CS_study/issues/17)
+- [교착상태(데드락, Deadlock)이 발생하기위한 조건과 해결책](https://github.com/SeoYeonBae/CS_study/issues/18)
 - CPU 스케쥴링의 종류
 - race condition(경쟁상태)를 방지하기 위한 조건
 - 프로세스에 할당되는 메모리의 각 영역에 대해서 설명해 주세요.
