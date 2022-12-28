@@ -212,3 +212,12 @@ CPU가 요청한 데이터가 캐시에 있으면 **Cache Hit** 라고 하며,
 어떤 명령어나 데이터를 저장해두는 저장 공간이다.
 
 
+
+
+<hr>
+
+### 참고
+
+- [[OS] 메모리 계층 구조(Memory Hierachy)](https://velog.io/@yu-jin-song/CS-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B3%84%EC%B8%B5-%EA%B5%AC%EC%A1%B0)
+- [CS 메모리 구조](https://velog.io/@alicesykim95/CS-Memory-%EA%B5%AC%EC%A1%B0)
+- [[CS] 메모리](https://artsung410.tistory.com/94)
