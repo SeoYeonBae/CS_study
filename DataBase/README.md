@@ -2,7 +2,7 @@
 
 ### 📌 이론
 
-- 키(Key)
+- [키(Key)](https://github.com/SeoYeonBae/CS_study/blob/main/DataBase/%ED%82%A4.md)
 - 조인(Join)
 - SQL Injection
 - SQL vs NOSQL
