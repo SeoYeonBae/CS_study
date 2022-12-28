@@ -91,6 +91,8 @@
 
 ## 3. 주 기억장치의 구조
 
+![image](https://user-images.githubusercontent.com/63834758/209745556-b20d2aaa-32e2-41eb-b582-68b585845bca.png)
+
 
 ### 📎 코드(Code) 영역
 
