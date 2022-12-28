@@ -56,6 +56,14 @@
 
    > [페이징과 세그먼테이션, 페이지 교체 알고리즘, 메모리(Memory), 파일 시스템(File System)](https://github.com/SeoYeonBae/CS_study/tree/main/OperatingSystem)
 
+- 8주차 : 1/4
+
+   > [키(Key), 조인(Join)](https://github.com/SeoYeonBae/CS_study/tree/main/DataBase)
+
+- 9주차 : 1/11
+
+   > [SQL Injection, SQL vs NoSQL](https://github.com/SeoYeonBae/CS_study/tree/main/DataBase)
+   
 ## **📚 Contents**
 
 ### 📌 CS
