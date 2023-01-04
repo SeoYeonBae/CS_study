@@ -54,6 +54,11 @@
 ### 💻 교차 조인 (Cross Join - cartesin product)
 곱집합, 2개 이상의 테이블에 대해 연결 가능한 행을 모두 결합
 
+> _MySQL의 경우 cross join = join_
+
+![image](https://user-images.githubusercontent.com/63834758/210502688-9143d802-27ad-4946-9b2d-0e1183d5b9de.png)
+
+
     
 ### 💻 셀프 조인 (Self Join)
 자기자신과 자기자신을 조인하는 것
