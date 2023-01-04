@@ -3,7 +3,7 @@
 ### 📌 이론
 
 - [키(Key)](https://github.com/SeoYeonBae/CS_study/blob/main/DataBase/%ED%82%A4.md)
-- 조인(Join)
+- [조인(Join)](https://github.com/SeoYeonBae/CS_study/blob/main/DataBase/%EC%A1%B0%EC%9D%B8(Join).md)
 - [SQL Injection](https://github.com/SeoYeonBae/CS_study/blob/main/DataBase/SQL%20Injection.md)
 - SQL vs NOSQL
 - 이상(Anomaly)
