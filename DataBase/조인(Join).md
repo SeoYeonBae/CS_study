@@ -9,7 +9,8 @@
 - 교집합
 - 왼쪽 테이블과 오른쪽 테이블의 두 행이 모두 일치하는 부분만 표기
 
-         Select * from tbA A
+         Select * 
+         from tbA A
          inner join tbB B on
          A.key = B.key
 
@@ -21,16 +22,18 @@
 다른 쪽 테이블의 행을 NULL로 하여 행을 return하는 것
 
 
-- **왼쪽 (Left Outer Join)** : 왼쪽 테이블의 모든 행을 결과 테이블에 표기
+- **왼쪽 (Left Outer Join)** : 왼쪽 기준 부분집합 _(왼쪽 테이블의 모든 행을 결과 테이블에 표기)_
 
-         Select * from tbA A
+         Select * 
+         from tbA A
          left join tbB B on
          A.key = B.key
 
 
-- **오른쪽 (Right Outer Join)** : 오른쪽 테이블의 모든 행을 결과 테이블에 표기
+- **오른쪽 (Right Outer Join)** : 오른쪽 기준 부분집합 _(오른쪽 테이블의 모든 행을 결과 테이블에 표기)_
     
-         Select * from tbA A
+         Select * 
+         from tbA A
          right join tbB B on
          A.key = B.key
     
@@ -38,7 +41,8 @@
 
 - **완전 외부 조인 (Full Outer Join)** : 합집합
 
-         Select * from tbA A
+         Select * 
+         from tbA A
          full outer join tbB B on
          A.key = B.key
 
@@ -49,6 +53,9 @@
     
 ### 💻 셀프 조인 (Self Join)
 자기자신과 자기자신을 조인하는 것
+
+![image](https://user-images.githubusercontent.com/63834758/210499661-0acdcc03-c305-4d82-a72a-36be52a2764c.png)
+
 
 
 <hr>
