@@ -4,7 +4,7 @@
 
 - [키(Key)](https://github.com/SeoYeonBae/CS_study/blob/main/DataBase/%ED%82%A4.md)
 - 조인(Join)
-- SQL Injection
+- [SQL Injection](https://github.com/SeoYeonBae/CS_study/blob/main/DataBase/SQL%20Injection.md)
 - SQL vs NOSQL
 - 이상(Anomaly)
 - 인덱스(Index)
