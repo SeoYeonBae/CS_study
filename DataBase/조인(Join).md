@@ -37,7 +37,7 @@
     
 
 - **완전 외부 조인 (Full Outer Join)** : 합집합
-- 
+
          Select * from tbA A
          full outer join tbB B on
          A.key = B.key
