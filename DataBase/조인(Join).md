@@ -15,8 +15,8 @@
 
          Select * 
          from tbA A
-         inner join tbB B on
-         A.key = B.key
+         inner join tbB B 
+         on A.key = B.key
 
 
 
@@ -30,16 +30,16 @@
 
          Select * 
          from tbA A
-         left join tbB B on
-         A.key = B.key
+         left join tbB B 
+         on A.key = B.key
 
 
 - **오른쪽 (Right Outer Join)** : 오른쪽 기준 부분집합 _(오른쪽 테이블의 모든 행을 결과 테이블에 표기)_
     
          Select * 
          from tbA A
-         right join tbB B on
-         A.key = B.key
+         right join tbB B 
+         on A.key = B.key
     
     
 
@@ -47,8 +47,8 @@
 
          Select * 
          from tbA A
-         full outer join tbB B on
-         A.key = B.key
+         full outer join tbB B 
+         on A.key = B.key
 
     
 ## 💻 교차 조인 (Cross Join - cartesin product)
