@@ -1,7 +1,7 @@
 # 📌조인(Join)
 
 
-## 2개 이상의 테이블 및 데이터베이스를 연결하여 데이터를 검색하는 방법
+### 2개 이상의 테이블 및 데이터베이스를 연결하여 데이터를 검색하는 방법
 
 
 ![image](https://user-images.githubusercontent.com/63834758/210499661-0acdcc03-c305-4d82-a72a-36be52a2764c.png)
@@ -9,7 +9,7 @@
 
 <hr>
 
-### 💻 내부 조인 (Inner Join)
+## 💻 내부 조인 (Inner Join)
 - 교집합
 - 왼쪽 테이블과 오른쪽 테이블의 두 행이 모두 일치하는 부분만 표기
 
@@ -20,7 +20,7 @@
 
 
 
-### 💻 외부 조인 (Outer Join)
+## 💻 외부 조인 (Outer Join)
 2개 이상의 테이블 조인 시 한쪽 테이블의 행에 대해 
 다른 쪽 테이블에 일치하는 행이 없더라도 
 다른 쪽 테이블의 행을 NULL로 하여 행을 return하는 것
@@ -51,7 +51,7 @@
          A.key = B.key
 
     
-### 💻 교차 조인 (Cross Join - cartesin product)
+## 💻 교차 조인 (Cross Join - cartesin product)
 곱집합, 2개 이상의 테이블에 대해 연결 가능한 행을 모두 결합
 
 > _MySQL의 경우 cross join = join_
@@ -60,7 +60,7 @@
 
 
     
-### 💻 셀프 조인 (Self Join)
+## 💻 셀프 조인 (Self Join)
 자기자신과 자기자신을 조인하는 것
 
 
