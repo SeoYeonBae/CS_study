@@ -5,7 +5,7 @@
 - [키(Key)](https://github.com/SeoYeonBae/CS_study/blob/main/DataBase/%ED%82%A4.md)
 - [조인(Join)](https://github.com/SeoYeonBae/CS_study/blob/main/DataBase/%EC%A1%B0%EC%9D%B8(Join).md)
 - [SQL Injection](https://github.com/SeoYeonBae/CS_study/blob/main/DataBase/SQL%20Injection.md)
-- [SQL vs NOSQL](https://github.com/SeoYeonBae/CS_study/commit/955e3887bf652928f5ecd189c62b006fe7074d62#diff-2d559593d815bda987601fbe55ac883daa9e57f1f0d0ea30078740a17f6c123a)
+- [SQL vs NOSQL](https://github.com/SeoYeonBae/CS_study/blob/main/DataBase/SQL%20vs%20NOSQL.md)
 - 이상(Anomaly)
 - 인덱스(Index)
 - 정규화(Normalization)
