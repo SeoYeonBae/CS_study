@@ -83,3 +83,4 @@ _둘 중 뭐가 더 좋은가???_
 - [SQL과 NOSQL의 차이](https://gyoogle.dev/blog/computer-science/data-base/SQL%20&%20NOSQL.html)
 - [[데이터베이스] SQL(구조화 쿼리 언어) vs NoSQL(비구조화 쿼리 언어)](https://hanamon.kr/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-sql-vs-nosql/)
 - [[데이터베이스] SQL과 NoSQL의 차이](https://overcome-the-limits.tistory.com/283)
+- [[DB]SQL vs NoSQL(mySQL vs MongoDB) 비교, 차이점](https://mjmjmj98.tistory.com/43)
