@@ -63,7 +63,15 @@
 - 9주차 : 1/11
 
    > [SQL Injection, SQL vs NoSQL](https://github.com/SeoYeonBae/CS_study/tree/main/DataBase)
-   
+
+- 10주차 : 1/19
+
+   > [이상(Anomaly), 인덱스(Index)](https://github.com/SeoYeonBae/CS_study/tree/main/DataBase)
+
+- 11주차 : 2/1
+
+   > [정규화(Normalization), 트랜잭션(Transaction)](https://github.com/SeoYeonBae/CS_study/tree/main/DataBase)
+
 ## **📚 Contents**
 
 ### 📌 CS
