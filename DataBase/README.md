@@ -6,7 +6,7 @@
 - [조인(Join)](https://github.com/SeoYeonBae/CS_study/blob/main/DataBase/%EC%A1%B0%EC%9D%B8(Join).md)
 - [SQL Injection](https://github.com/SeoYeonBae/CS_study/blob/main/DataBase/SQL%20Injection.md)
 - [SQL vs NOSQL](https://github.com/SeoYeonBae/CS_study/blob/main/DataBase/SQL%20vs%20NOSQL.md)
-- 이상(Anomaly)
+- [이상(Anomaly)](https://github.com/SeoYeonBae/CS_study/blob/main/DataBase/이상(Anomaly).md)
 - [인덱스(Index)](https://github.com/SeoYeonBae/CS_study/tree/main/DataBase)
 - 정규화(Normalization)
 - 트랜잭션(Transaction)
