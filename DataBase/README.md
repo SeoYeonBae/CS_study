@@ -8,7 +8,7 @@
 - [SQL vs NOSQL](https://github.com/SeoYeonBae/CS_study/blob/main/DataBase/SQL%20vs%20NOSQL.md)
 - [이상(Anomaly)](https://github.com/SeoYeonBae/CS_study/blob/main/DataBase/이상(Anomaly).md)
 - [인덱스(Index)](https://github.com/SeoYeonBae/CS_study/blob/main/DataBase/인덱스(Index).md)
-- 정규화(Normalization)
+- [정규화(Normalization)](https://github.com/SeoYeonBae/CS_study/blob/main/DataBase/정규화(Normalization).md)
 - [트랜잭션(Transaction)](https://github.com/SeoYeonBae/CS_study/blob/main/DataBase/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98(Transaction).md)
 - 트랜잭션 격리 수준
 - 레디스(Redis)
