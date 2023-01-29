@@ -28,49 +28,57 @@
 
 ## **:sparkles: 진행 상황**
 
-- 1주차 : 10/24
+- 1화차 : 10/24
 
    > [CPU 작동원리, 캐시메모리, 고정소수점과 부동소수점, 패리티비트와 해밍코드](https://github.com/SeoYeonBae/CS_study/tree/main/ComputerArchitecture)
 
-- 2주차 : 11/2
+- 2회차 : 11/2
    
    > [컴퓨터의 구성, ARM 프로세서](https://github.com/SeoYeonBae/CS_study/tree/main/ComputerArchitecture),  [배열, 스택과 큐](https://github.com/SeoYeonBae/CS_study/tree/main/DataStructure)
   
-- 3주차 : 11/9
+- 3회차 : 11/9
 
    > [연결리스트, 힙, 트리, 해시, 트라이](https://github.com/SeoYeonBae/CS_study/tree/main/DataStructure)
    
-- 4주차 : 12/02
+- 4회차 : 12/02
 
    > [Array & ArrayList & LinkedList, 이진 탐색 트리, B Tree & B+ Tree](https://github.com/SeoYeonBae/CS_study/tree/main/DataStructure), [운영체제란?, 프로세서 & 프로세스 & 스레드](https://github.com/SeoYeonBae/CS_study/tree/main/OperatingSystem)
    
-- 5주차 : 12/14
+- 5회차 : 12/14
 
    > [프로세스 주소 공간, 인터럽트, 시스템 콜, PCB와 Context Switching, IPC](https://github.com/SeoYeonBae/CS_study/tree/main/OperatingSystem)
    
-- 6주차 : 12/21
+- 6회차 : 12/21
 
    > [CPU 스케줄링, 데드락, 경쟁 상태, 세마포어와 뮤텍스](https://github.com/SeoYeonBae/CS_study/tree/main/OperatingSystem)
    
-- 7주차 : 12/28
+- 7회차 : 12/28
 
    > [페이징과 세그먼테이션, 페이지 교체 알고리즘, 메모리(Memory), 파일 시스템(File System)](https://github.com/SeoYeonBae/CS_study/tree/main/OperatingSystem)
 
-- 8주차 : 1/4
+- 8회차 : 1/4
 
    > [키(Key), 조인(Join)](https://github.com/SeoYeonBae/CS_study/tree/main/DataBase)
 
-- 9주차 : 1/11
+- 9회차 : 1/11
 
    > [SQL Injection, SQL vs NoSQL](https://github.com/SeoYeonBae/CS_study/tree/main/DataBase)
 
-- 10주차 : 1/19
+- 10회차 : 1/19
 
    > [이상(Anomaly), 인덱스(Index)](https://github.com/SeoYeonBae/CS_study/tree/main/DataBase)
 
-- 11주차 : 1/25
+- 11회차 : 1/25
 
    > [정규화(Normalization), 트랜잭션(Transaction)](https://github.com/SeoYeonBae/CS_study/tree/main/DataBase)
+
+- 11회차 : 1/25
+
+   > [트랜잭션 격리 수준, 레디스(Redis)](https://github.com/SeoYeonBae/CS_study/tree/main/DataBase)
+   
+- 12회차 :
+
+   > [저장 프로시저(Stored PROCEDURE)](https://github.com/SeoYeonBae/CS_study/edit/main/README.md), [OSI 7계층](https://github.com/SeoYeonBae/CS_study/tree/main/Network)
 
 ## **📚 Contents**
 
