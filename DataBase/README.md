@@ -11,7 +11,7 @@
 - [정규화(Normalization)](https://github.com/SeoYeonBae/CS_study/blob/main/DataBase/정규화(Normalization).md)
 - [트랜잭션(Transaction)](https://github.com/SeoYeonBae/CS_study/blob/main/DataBase/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98(Transaction).md)
 - [트랜잭션 격리 수준](https://github.com/SeoYeonBae/CS_study/blob/main/DataBase/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%20%EA%B2%A9%EB%A6%AC%20%EC%88%98%EC%A4%80.md)
-- 레디스(Redis)
+- [레디스(Redis)](https://github.com/SeoYeonBae/CS_study/blob/main/DataBase/Redis.md)
 - 저장 프로시저(Stored PROCEDURE)
 
 ### 📌 예상 질문
