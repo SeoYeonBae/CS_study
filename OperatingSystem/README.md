@@ -31,8 +31,8 @@
 - [Cache Memory의 역할은 무엇인가](https://github.com/SeoYeonBae/CS_study/issues/23)
 - [Caching Locality와 Cache Hit Ratio에 대해 설명하시오](https://github.com/SeoYeonBae/CS_study/issues/24)
 - [운영체제란?](https://github.com/SeoYeonBae/CS_study/issues/25)
-- 멀티 프로세스와 멀티 스레드의 차이점
-- First Fit, Best Fit, Worst Fit
+- [멀티 프로세스와 멀티 스레드의 차이점](https://github.com/SeoYeonBae/CS_study/issues/26)
+- [First Fit, Best Fit, Worst Fit](https://github.com/SeoYeonBae/CS_study/issues/27)
 - 외부단편화, 내부단편화
 - 페이지와 세그멘테이션
 - 페이지 교체 알고리즘의 종류
