@@ -1,7 +1,7 @@
 # ✨:Network
 
 ### 📌 이론
-- OSI 7계층
+- [OSI 7계층](https://github.com/SeoYeonBae/CS_study/blob/main/Network/OSI%207%EA%B3%84%EC%B8%B5.md)
 - TCP 3 & 4 way handshake
 - TCP/IP 흐름제어 & 혼잡제어
 - UDP
