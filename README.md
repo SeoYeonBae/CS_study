@@ -76,9 +76,17 @@
 
    > [트랜잭션 격리 수준, 레디스(Redis)](https://github.com/SeoYeonBae/CS_study/tree/main/DataBase)
    
-- 12회차 :
+- 12회차 : 02/08
 
-   > [저장 프로시저(Stored PROCEDURE)](https://github.com/SeoYeonBae/CS_study/edit/main/README.md), [OSI 7계층](https://github.com/SeoYeonBae/CS_study/tree/main/Network)
+   > [저장 프로시저(Stored PROCEDURE)](https://github.com/SeoYeonBae/CS_study/tree/main/README.md), [OSI 7계층](https://github.com/SeoYeonBae/CS_study/tree/main/Network)
+
+- 13회차 : 02/15
+
+   > [TCP 3 & 4 way handshake, TCP/IP 흐름제어 & 혼잡제어](https://github.com/SeoYeonBae/CS_study/tree/main/Network)
+
+- 14회차 : 02/22
+
+   > [UDP, 대칭키 & 공개키](https://github.com/SeoYeonBae/CS_study/tree/main/Network)
 
 ## **📚 Contents**
 
