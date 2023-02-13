@@ -3,7 +3,7 @@
 ### 📌 이론
 - [OSI 7계층](https://github.com/SeoYeonBae/CS_study/blob/main/Network/OSI%207%EA%B3%84%EC%B8%B5.md)
 - TCP 3 & 4 way handshake
-- TCP/IP 흐름제어 & 혼잡제어
+- [TCP/IP 흐름제어 & 혼잡제어](https://github.com/SeoYeonBae/CS_study/blob/main/Network/TCP%20IP%20%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%20%26%20%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4.md)
 - UDP
 - 대칭키 & 공개키
 - HTTP & HTTPS
