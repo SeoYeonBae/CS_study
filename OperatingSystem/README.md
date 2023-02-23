@@ -35,8 +35,8 @@
 - [First Fit, Best Fit, Worst Fit](https://github.com/SeoYeonBae/CS_study/issues/27)
 - [외부단편화와 내부단편화란?](https://github.com/SeoYeonBae/CS_study/issues/28)
 - [페이지와 세그멘테이션이란?](https://github.com/SeoYeonBae/CS_study/issues/29)
-- 페이지 교체 알고리즘의 종류
-- 가상 메모리의 개념과 사용할시의 장단점
+- [페이지 교체 알고리즘의 종류](https://github.com/SeoYeonBae/CS_study/issues/30)
+- [가상 메모리의 개념과 사용할시의 장단점](https://github.com/SeoYeonBae/CS_study/issues/31)
 - 시스템 콜
 - IPC
 - 인터럽트
