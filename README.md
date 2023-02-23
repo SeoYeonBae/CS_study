@@ -88,6 +88,12 @@
 
    > [UDP, 대칭키 & 공개키](https://github.com/SeoYeonBae/CS_study/tree/main/Network)
 
+- 15회차 : 03/02
+
+   > [HTTP & HTTPS & TLS/SSL HandShake](https://github.com/SeoYeonBae/CS_study/tree/main/Network)
+
+- 16회차 : 03/09
+
 ## **📚 Contents**
 
 ### 📌 CS
