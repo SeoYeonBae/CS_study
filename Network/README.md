@@ -6,7 +6,7 @@
 - [TCP/IP 흐름제어 & 혼잡제어](https://github.com/SeoYeonBae/CS_study/blob/main/Network/TCP%20IP%20%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%20%26%20%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4.md)
 - [UDP](https://github.com/SeoYeonBae/CS_study/blob/main/Network/UDP.md)
 - [대칭키 & 공개키](https://github.com/SeoYeonBae/CS_study/blob/main/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%20%26%20%EA%B3%B5%EA%B0%9C%ED%82%A4.md)
-- HTTP & HTTPS
+- [HTTP & HTTPS](https://github.com/SeoYeonBae/CS_study/blob/main/Network/HTTP%20%26%20HTTPS.md)
 - [TLS/SSL HandShake](https://github.com/SeoYeonBae/CS_study/blob/main/Network/TLS%26SSL%20HandShake.md)
 - 로드밸런싱(Load Balancing)
 - Blocking/Non-blocking & Synchronous/Asynchronous
