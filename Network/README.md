@@ -7,7 +7,7 @@
 - [UDP](https://github.com/SeoYeonBae/CS_study/blob/main/Network/UDP.md)
 - [대칭키 & 공개키](https://github.com/SeoYeonBae/CS_study/blob/main/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%20%26%20%EA%B3%B5%EA%B0%9C%ED%82%A4.md)
 - HTTP & HTTPS
-- TLS/SSL HandShake
+- [TLS/SSL HandShake](https://github.com/SeoYeonBae/CS_study/blob/main/Network/TLS%26SSL%20HandShake.md)
 - 로드밸런싱(Load Balancing)
 - Blocking/Non-blocking & Synchronous/Asynchronous
 - Blocking & Non-Blocking I/O
