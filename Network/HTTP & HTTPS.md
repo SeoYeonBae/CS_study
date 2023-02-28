@@ -91,3 +91,4 @@
 
 - [HTTP와 HTTPS의 개념 및 차이점](https://mangkyu.tistory.com/98)
 - [인터넷 프로토콜 http와 https의 차이](https://post.naver.com/viewer/postView.nhn?volumeNo=16561296&memberNo=1834)
+- [HTTP와 HTTPS의 동작과정](https://jiyoungtt.tistory.com/66)
