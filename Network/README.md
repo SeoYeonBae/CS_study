@@ -1,6 +1,7 @@
 # ✨:Network
 
 ### 📌 이론
+
 - [OSI 7계층](https://github.com/SeoYeonBae/CS_study/blob/main/Network/OSI%207%EA%B3%84%EC%B8%B5.md)
 - [TCP 3 & 4 way handshake](https://github.com/SeoYeonBae/CS_study/blob/main/Network/TCP%203%20%26%204%20way%20handshake.md)
 - [TCP/IP 흐름제어 & 혼잡제어](https://github.com/SeoYeonBae/CS_study/blob/main/Network/TCP%20IP%20%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%20%26%20%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4.md)
@@ -9,10 +10,11 @@
 - [HTTP & HTTPS](https://github.com/SeoYeonBae/CS_study/blob/main/Network/HTTP%20%26%20HTTPS.md)
 - [TLS/SSL HandShake](https://github.com/SeoYeonBae/CS_study/blob/main/Network/TLS%26SSL%20HandShake.md)
 - 로드밸런싱(Load Balancing)
-- Blocking/Non-blocking & Synchronous/Asynchronous
+- [Blocking/Non-blocking & Synchronous/Asynchronous](https://github.com/SeoYeonBae/CS_study/blob/main/Network/Blocking%2CNon-blocking%20%26%20Synchronous%2CAsynchronous.md)
 - Blocking & Non-Blocking I/O
 
 ### 📌 예상 질문
+
 - TCP 와 UDP의 특징과 차이점에 대해 설명하시오.
 - HTTP GET과 POST의 차이는 무엇인가요?
 - 3-way hand shake, 4-way hand shake 흐름에 대해서 설명해주세요.
