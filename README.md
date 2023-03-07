@@ -94,6 +94,8 @@
 
 - 16회차 : 03/09
 
+   > [로드밸런싱(Load Balancing) & Blocking/Non-blocking & Synchronous/Asynchronous](https://github.com/SeoYeonBae/CS_study/tree/main/Network)
+
 ## **📚 Contents**
 
 ### 📌 CS
