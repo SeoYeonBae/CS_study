@@ -9,7 +9,7 @@
 - [대칭키 & 공개키](https://github.com/SeoYeonBae/CS_study/blob/main/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%20%26%20%EA%B3%B5%EA%B0%9C%ED%82%A4.md)
 - [HTTP & HTTPS](https://github.com/SeoYeonBae/CS_study/blob/main/Network/HTTP%20%26%20HTTPS.md)
 - [TLS/SSL HandShake](https://github.com/SeoYeonBae/CS_study/blob/main/Network/TLS%26SSL%20HandShake.md)
-- 로드밸런싱(Load Balancing)
+- [로드밸런싱(Load Balancing)](https://github.com/SeoYeonBae/CS_study/blob/main/Network/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1(Load%20Balancing).md)
 - [Blocking/Non-blocking & Synchronous/Asynchronous](https://github.com/SeoYeonBae/CS_study/blob/main/Network/Blocking%2CNon-blocking%20%26%20Synchronous%2CAsynchronous.md)
 - Blocking & Non-Blocking I/O
 
