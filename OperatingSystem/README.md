@@ -37,8 +37,8 @@
 - [페이지와 세그멘테이션이란?](https://github.com/SeoYeonBae/CS_study/issues/29)
 - [페이지 교체 알고리즘의 종류](https://github.com/SeoYeonBae/CS_study/issues/30)
 - [가상 메모리의 개념과 사용할시의 장단점](https://github.com/SeoYeonBae/CS_study/issues/31)
-- 시스템 콜
-- IPC
+- [시스템 콜](https://github.com/SeoYeonBae/CS_study/issues/32)
+- [IPC](https://github.com/SeoYeonBae/CS_study/issues/33)
 - 인터럽트
 - 뮤텍스와 세마포어의 차이
 - Context Switching의 개념과 과정
