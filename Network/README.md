@@ -11,7 +11,7 @@
 - [TLS/SSL HandShake](https://github.com/SeoYeonBae/CS_study/blob/main/Network/TLS%26SSL%20HandShake.md)
 - [로드밸런싱(Load Balancing)](https://github.com/SeoYeonBae/CS_study/blob/main/Network/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1(Load%20Balancing).md)
 - [Blocking/Non-blocking & Synchronous/Asynchronous](https://github.com/SeoYeonBae/CS_study/blob/main/Network/Blocking%2CNon-blocking%20%26%20Synchronous%2CAsynchronous.md)
-- Blocking & Non-Blocking I/O
+- [Blocking & Non-Blocking I/O](https://github.com/SeoYeonBae/CS_study/blob/main/Network/Blocking%20%26%20Non-Blocking%20IO.md)
 
 ### 📌 예상 질문
 
