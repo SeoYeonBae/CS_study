@@ -96,6 +96,10 @@
 
    > [로드밸런싱(Load Balancing) & Blocking/Non-blocking & Synchronous/Asynchronous](https://github.com/SeoYeonBae/CS_study/tree/main/Network)
 
+- 17회차 : 03/15
+
+   > [Blocking/Non-blocking IO](https://github.com/SeoYeonBae/CS_study/tree/main/Network) & [클린코드와 리팩토링](https://github.com/SeoYeonBae/CS_study/tree/main/SoftwearEngineering)
+   
 ## **📚 Contents**
 
 ### 📌 CS
