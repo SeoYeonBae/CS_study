@@ -39,8 +39,8 @@
 - [가상 메모리의 개념과 사용할시의 장단점](https://github.com/SeoYeonBae/CS_study/issues/31)
 - [시스템 콜](https://github.com/SeoYeonBae/CS_study/issues/32)
 - [IPC](https://github.com/SeoYeonBae/CS_study/issues/33)
-- 인터럽트
-- 뮤텍스와 세마포어의 차이
+- [인터럽트란?](https://github.com/SeoYeonBae/CS_study/issues/34)
+- [뮤텍스와 세마포어의 차이](https://github.com/SeoYeonBae/CS_study/issues/35)
 - Context Switching의 개념과 과정
 - 임계구역
 - 프로세스 혹은 스레드의 동기화란 무엇인가요?
