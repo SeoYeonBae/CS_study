@@ -100,6 +100,10 @@
 
    > [Blocking/Non-blocking IO](https://github.com/SeoYeonBae/CS_study/tree/main/Network) & [클린코드와 리팩토링](https://github.com/SeoYeonBae/CS_study/tree/main/SoftwareEngineering)
    
+- 18회차 : 03/22
+
+   > [클린코드 & 시큐어 코딩, 테스트 주도 개발(TDD)](https://github.com/SeoYeonBae/CS_study/tree/main/SoftwareEngineering)
+   
 ## **📚 Contents**
 
 ### 📌 CS
