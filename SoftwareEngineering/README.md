@@ -6,7 +6,7 @@
 - [클린코드 & 시큐어 코딩](https://github.com/SeoYeonBae/CS_study/blob/main/SoftwareEngineering/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20%26%20%EC%8B%9C%ED%81%90%EC%96%B4%20%EC%BD%94%EB%94%A9.md)
 - [테스트 주도 개발(TDD)](<https://github.com/SeoYeonBae/CS_study/blob/main/SoftwareEngineering/%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%A3%BC%EB%8F%84%20%EA%B0%9C%EB%B0%9C(TDD).md>)
 - 애자일(Agile)
-- 객체 지향 프로그래밍
+- [객체 지향 프로그래밍](https://github.com/SeoYeonBae/CS_study/blob/main/SoftwareEngineering/객체%20지향%20프로그래밍.md)
 - 함수형 프로그래밍
 - 데브옵스(DevOps)
 - 서드파티(3rd party)
