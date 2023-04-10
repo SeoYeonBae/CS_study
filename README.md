@@ -103,7 +103,19 @@
 - 18회차 : 03/22
 
    > [클린코드 & 시큐어 코딩, 테스트 주도 개발(TDD)](https://github.com/SeoYeonBae/CS_study/tree/main/SoftwareEngineering)
+
+- 19회차 : 03/29
+
+   > [애자일(Agile), 객체 지향 프로그래밍](https://github.com/SeoYeonBae/CS_study/tree/main/SoftwareEngineering)
    
+- 20회차 : 04/05
+
+   > [함수형 프로그래밍, 데브옵스(DevOps)](https://github.com/SeoYeonBae/CS_study/tree/main/SoftwareEngineering)
+   
+- 20회차 : 04/12
+
+   > [서드파티(3rd party), 마이크로서비스 아키텍처(MSA)](https://github.com/SeoYeonBae/CS_study/tree/main/SoftwareEngineering)
+
 ## **📚 Contents**
 
 ### 📌 CS
