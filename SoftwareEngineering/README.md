@@ -10,4 +10,4 @@
 - [함수형 프로그래밍](https://github.com/SeoYeonBae/CS_study/blob/main/SoftwareEngineering/%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
 - [데브옵스(DevOps)](<https://github.com/SeoYeonBae/CS_study/blob/main/SoftwareEngineering/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4(DevOps).md>)
 - [서드파티(3rd party)](https://github.com/SeoYeonBae/CS_study/blob/main/SoftwareEngineering/%EC%84%9C%EB%93%9C%ED%8C%8C%ED%8B%B0(3rd%20party).md)
-- 마이크로서비스 아키텍처(MSA)
+- [마이크로서비스 아키텍처(MSA)](https://github.com/SeoYeonBae/CS_study/blob/main/SoftwareEngineering/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98(MSA).md)
