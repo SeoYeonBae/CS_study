@@ -62,7 +62,7 @@
 
 --- 
 
-***** 참고
+##### 참고
 
 - [요즘 대세 MSA, 마이크로 서비스 아키텍처!](https://www.opsnow.com/%EC%9A%94%EC%A6%98-%EB%8C%80%EC%84%B8-msa/)
 - [MSA 제대로 이해하기 -(1) MSA의 기본 개념](https://velog.io/@tedigom/MSA-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1-MSA%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-3sk28yrv0e)
