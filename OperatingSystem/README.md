@@ -41,8 +41,8 @@
 - [IPC](https://github.com/SeoYeonBae/CS_study/issues/33)
 - [인터럽트란?](https://github.com/SeoYeonBae/CS_study/issues/34)
 - [뮤텍스와 세마포어의 차이](https://github.com/SeoYeonBae/CS_study/issues/35)
-- Context Switching의 개념과 과정
-- 임계구역
+- [Context Switching의 개념과 과정](https://github.com/SeoYeonBae/CS_study/issues/36)
+- [임계구역](https://github.com/SeoYeonBae/CS_study/issues/37)
 - 프로세스 혹은 스레드의 동기화란 무엇인가요?
 - 사용자 수준의 스레드와 커널 수준의 스레드의 차이는 무엇인가요?
 - fork()란 무엇인가요?
