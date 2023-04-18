@@ -1,7 +1,7 @@
 # :sparkles: Algorithm
 
 ### 📌 이론
-- 시간 복잡도란?
+- [시간 복잡도란?](https://github.com/SeoYeonBae/CS_study/blob/main/Algoritm/%EC%8B%9C%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
 - 거품 정렬(Bubble Sort)
 - 선택 정렬(Selection Sort)
 - 삽입 정렬(Insertion Sort)
