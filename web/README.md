@@ -2,7 +2,7 @@
 
 ### 📌 이론
 - 브라우저 동작 방법
-- 쿠키 & 세션
+- [쿠키 & 세션](https://github.com/SeoYeonBae/CS_study/blob/main/web/%EC%BF%A0%ED%82%A4%20%26%20%EC%84%B8%EC%85%98.md)
 - HTTP status code
 - REST API
 - Web Server와 WAS
