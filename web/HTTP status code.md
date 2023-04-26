@@ -1,7 +1,7 @@
 # 🌎 HTTP status code
 
 
-- HTTP 요청에 대한 상태를 알려주는 코드
+HTTP 요청에 대한 상태를 알려주는 코드
 
 ![image](https://user-images.githubusercontent.com/63834758/234469847-1044f452-b75d-4aa0-9cd9-4661f05e1a5d.png)
 
