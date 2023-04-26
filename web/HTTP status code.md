@@ -45,9 +45,6 @@ HTTP 요청에 대한 상태를 알려주는 코드
 - 요청을 완료하려면 추가 행동이 필요한 경우를 의미.
 - 결과에 Location header가 있다면 자동으로 Location 위치로 이동한다.
     - 총 3가지 리다이렉션이 있다.
-
-![image](https://user-images.githubusercontent.com/63834758/234468886-af032ea5-564c-4997-932e-fa3657a2842c.png)
-
  
 1️⃣ **영속적인 리다이렉션(301, 308)**
 - _특정 리소스의 URI가 영구적으로 이동한다._
@@ -63,6 +60,11 @@ HTTP 요청에 대한 상태를 알려주는 코드
 
 
 
+
+![image](https://user-images.githubusercontent.com/63834758/234468886-af032ea5-564c-4997-932e-fa3657a2842c.png)
+  
+  
+  
 |상태코드(상태메세지)|설명|
 |-----|---|
 |**300(Multiple Choice)**|요청에 대해 하나 이상의 응답이 가능(거의 사용되지 않는다)|
