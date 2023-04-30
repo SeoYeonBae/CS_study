@@ -6,7 +6,7 @@
 - [HTTP status code](https://github.com/SeoYeonBae/CS_study/blob/main/web/HTTP%20status%20code.md)
 - [REST API](https://github.com/SeoYeonBae/CS_study/blob/main/web/REST%20API.md)
 - Web Server와 WAS
-- OAuth
+- [OAuth](https://github.com/SeoYeonBae/CS_study/blob/main/web/OAuth.md)
 - JWT(JSON Web Token)
 - 인증 방식
 - 로깅 레벨(Logging Level)
