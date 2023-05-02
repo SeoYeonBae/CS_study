@@ -115,6 +115,10 @@
 - 20회차 : 04/12
 
    > [서드파티(3rd party), 마이크로서비스 아키텍처(MSA)](https://github.com/SeoYeonBae/CS_study/tree/main/SoftwareEngineering)
+ 
+- 21회차 : 04/26
+
+   > [브라우저 동작 방법, 쿠키세션, HTTP Status Code, REST API](https://github.com/SeoYeonBae/CS_study/tree/main/web)
 
 ## **📚 Contents**
 
