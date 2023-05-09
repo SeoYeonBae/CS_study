@@ -8,7 +8,7 @@
 - Web Server와 WAS
 - [OAuth](https://github.com/SeoYeonBae/CS_study/blob/main/web/OAuth.md)
 - JWT(JSON Web Token)
-- 인증 방식
+- [인증 방식](https://github.com/SeoYeonBae/CS_study/blob/main/web/%EC%9D%B8%EC%A6%9D%20%EB%B0%A9%EC%8B%9D.md)
 - 로깅 레벨(Logging Level)
 - UI와 UX
 - CSR & SSR
