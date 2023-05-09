@@ -5,7 +5,7 @@
 - [쿠키 & 세션](https://github.com/SeoYeonBae/CS_study/blob/main/web/%EC%BF%A0%ED%82%A4%20%26%20%EC%84%B8%EC%85%98.md)
 - [HTTP status code](https://github.com/SeoYeonBae/CS_study/blob/main/web/HTTP%20status%20code.md)
 - [REST API](https://github.com/SeoYeonBae/CS_study/blob/main/web/REST%20API.md)
-- Web Server와 WAS
+- [Web Server와 WAS](https://github.com/SeoYeonBae/CS_study/blob/main/web/Web%20Server%EC%99%80%20WAS.md)
 - [OAuth](https://github.com/SeoYeonBae/CS_study/blob/main/web/OAuth.md)
 - JWT(JSON Web Token)
 - [인증 방식](https://github.com/SeoYeonBae/CS_study/blob/main/web/%EC%9D%B8%EC%A6%9D%20%EB%B0%A9%EC%8B%9D.md)
