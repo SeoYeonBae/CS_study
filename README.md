@@ -26,109 +26,6 @@
 - 이외 특이사항은 카톡이나 엠엠 단톡방 활용
 - 벌금 : 1문제당 500원
 
-## **:sparkles: 진행 상황**
-
-- 1화차 : 10/24
-
-   > [CPU 작동원리, 캐시메모리, 고정소수점과 부동소수점, 패리티비트와 해밍코드](https://github.com/SeoYeonBae/CS_study/tree/main/ComputerArchitecture)
-
-- 2회차 : 11/2
-   
-   > [컴퓨터의 구성, ARM 프로세서](https://github.com/SeoYeonBae/CS_study/tree/main/ComputerArchitecture),  [배열, 스택과 큐](https://github.com/SeoYeonBae/CS_study/tree/main/DataStructure)
-  
-- 3회차 : 11/9
-
-   > [연결리스트, 힙, 트리, 해시, 트라이](https://github.com/SeoYeonBae/CS_study/tree/main/DataStructure)
-   
-- 4회차 : 12/02
-
-   > [Array & ArrayList & LinkedList, 이진 탐색 트리, B Tree & B+ Tree](https://github.com/SeoYeonBae/CS_study/tree/main/DataStructure), [운영체제란?, 프로세서 & 프로세스 & 스레드](https://github.com/SeoYeonBae/CS_study/tree/main/OperatingSystem)
-   
-- 5회차 : 12/14
-
-   > [프로세스 주소 공간, 인터럽트, 시스템 콜, PCB와 Context Switching, IPC](https://github.com/SeoYeonBae/CS_study/tree/main/OperatingSystem)
-   
-- 6회차 : 12/21
-
-   > [CPU 스케줄링, 데드락, 경쟁 상태, 세마포어와 뮤텍스](https://github.com/SeoYeonBae/CS_study/tree/main/OperatingSystem)
-   
-- 7회차 : 12/28
-
-   > [페이징과 세그먼테이션, 페이지 교체 알고리즘, 메모리(Memory), 파일 시스템(File System)](https://github.com/SeoYeonBae/CS_study/tree/main/OperatingSystem)
-
-- 8회차 : 1/4
-
-   > [키(Key), 조인(Join)](https://github.com/SeoYeonBae/CS_study/tree/main/DataBase)
-
-- 9회차 : 1/11
-
-   > [SQL Injection, SQL vs NoSQL](https://github.com/SeoYeonBae/CS_study/tree/main/DataBase)
-
-- 10회차 : 1/19
-
-   > [이상(Anomaly), 인덱스(Index)](https://github.com/SeoYeonBae/CS_study/tree/main/DataBase)
-
-- 11회차 : 1/25
-
-   > [정규화(Normalization), 트랜잭션(Transaction)](https://github.com/SeoYeonBae/CS_study/tree/main/DataBase)
-
-- 11회차 : 1/25
-
-   > [트랜잭션 격리 수준, 레디스(Redis)](https://github.com/SeoYeonBae/CS_study/tree/main/DataBase)
-   
-- 12회차 : 02/08
-
-   > [저장 프로시저(Stored PROCEDURE)](https://github.com/SeoYeonBae/CS_study/tree/main/README.md), [OSI 7계층](https://github.com/SeoYeonBae/CS_study/tree/main/Network)
-
-- 13회차 : 02/15
-
-   > [TCP 3 & 4 way handshake, TCP/IP 흐름제어 & 혼잡제어](https://github.com/SeoYeonBae/CS_study/tree/main/Network)
-
-- 14회차 : 02/22
-
-   > [UDP, 대칭키 & 공개키](https://github.com/SeoYeonBae/CS_study/tree/main/Network)
-
-- 15회차 : 03/02
-
-   > [HTTP & HTTPS & TLS/SSL HandShake](https://github.com/SeoYeonBae/CS_study/tree/main/Network)
-
-- 16회차 : 03/09
-
-   > [로드밸런싱(Load Balancing) & Blocking/Non-blocking & Synchronous/Asynchronous](https://github.com/SeoYeonBae/CS_study/tree/main/Network)
-
-- 17회차 : 03/15
-
-   > [Blocking/Non-blocking IO](https://github.com/SeoYeonBae/CS_study/tree/main/Network) & [클린코드와 리팩토링](https://github.com/SeoYeonBae/CS_study/tree/main/SoftwareEngineering)
-   
-- 18회차 : 03/22
-
-   > [클린코드 & 시큐어 코딩, 테스트 주도 개발(TDD)](https://github.com/SeoYeonBae/CS_study/tree/main/SoftwareEngineering)
-
-- 19회차 : 03/29
-
-   > [애자일(Agile), 객체 지향 프로그래밍](https://github.com/SeoYeonBae/CS_study/tree/main/SoftwareEngineering)
-   
-- 20회차 : 04/05
-
-   > [함수형 프로그래밍, 데브옵스(DevOps)](https://github.com/SeoYeonBae/CS_study/tree/main/SoftwareEngineering)
-   
-- 20회차 : 04/12
-
-   > [서드파티(3rd party), 마이크로서비스 아키텍처(MSA)](https://github.com/SeoYeonBae/CS_study/tree/main/SoftwareEngineering)
- 
-- 21회차 : 04/26
-
-   > [브라우저 동작 방법, 쿠키세션, HTTP Status Code, REST API](https://github.com/SeoYeonBae/CS_study/tree/main/web)
-
-- 22회차 : 05/24
-
-   > [Web Server와 WAS, OAuth, JWT(JSON Web Token), 인증 방식](https://github.com/SeoYeonBae/CS_study/tree/main/web)
-
-- 23회차 : 05/31
-
-   > [로깅 레벨(Logging Level), UI와 UX, CSR & SSR, 네이티브 앱 & 웹 앱 & 하이브리드 앱](https://github.com/SeoYeonBae/CS_study/tree/main/web)
-
-
 ## **📚 Contents**
 
 ### 📌 CS
@@ -154,3 +51,106 @@
 ### **[3. Web](https://github.com/SeoYeonBae/CS_study/tree/main/web)**
 
 ### **[4. Etc](https://github.com/SeoYeonBae/CS_study/tree/main/Etc)**
+
+
+## **:sparkles: 진행 상황**
+
+- 25회차 : 05/31
+
+   > [로깅 레벨(Logging Level), UI와 UX, CSR & SSR, 네이티브 앱 & 웹 앱 & 하이브리드 앱](https://github.com/SeoYeonBae/CS_study/tree/main/web)
+
+- 24회차 : 05/24
+
+   > [Web Server와 WAS, OAuth, JWT(JSON Web Token), 인증 방식](https://github.com/SeoYeonBae/CS_study/tree/main/web)
+ 
+- 23회차 : 04/26
+
+   > [브라우저 동작 방법, 쿠키세션, HTTP Status Code, REST API](https://github.com/SeoYeonBae/CS_study/tree/main/web)
+   
+- 22회차 : 04/12
+
+   > [서드파티(3rd party), 마이크로서비스 아키텍처(MSA)](https://github.com/SeoYeonBae/CS_study/tree/main/SoftwareEngineering)
+   
+- 21회차 : 04/05
+
+   > [함수형 프로그래밍, 데브옵스(DevOps)](https://github.com/SeoYeonBae/CS_study/tree/main/SoftwareEngineering)
+
+- 20회차 : 03/29
+
+   > [애자일(Agile), 객체 지향 프로그래밍](https://github.com/SeoYeonBae/CS_study/tree/main/SoftwareEngineering)
+   
+- 19회차 : 03/22
+
+   > [클린코드 & 시큐어 코딩, 테스트 주도 개발(TDD)](https://github.com/SeoYeonBae/CS_study/tree/main/SoftwareEngineering)
+
+- 18회차 : 03/15
+
+   > [Blocking/Non-blocking IO](https://github.com/SeoYeonBae/CS_study/tree/main/Network) & [클린코드와 리팩토링](https://github.com/SeoYeonBae/CS_study/tree/main/SoftwareEngineering)
+
+- 17회차 : 03/09
+
+   > [로드밸런싱(Load Balancing) & Blocking/Non-blocking & Synchronous/Asynchronous](https://github.com/SeoYeonBae/CS_study/tree/main/Network)
+
+- 16회차 : 03/02
+
+   > [HTTP & HTTPS & TLS/SSL HandShake](https://github.com/SeoYeonBae/CS_study/tree/main/Network)
+
+- 15회차 : 02/22
+
+   > [UDP, 대칭키 & 공개키](https://github.com/SeoYeonBae/CS_study/tree/main/Network)
+
+- 14회차 : 02/15
+
+   > [TCP 3 & 4 way handshake, TCP/IP 흐름제어 & 혼잡제어](https://github.com/SeoYeonBae/CS_study/tree/main/Network)
+   
+- 13회차 : 02/08
+
+   > [저장 프로시저(Stored PROCEDURE)](https://github.com/SeoYeonBae/CS_study/tree/main/README.md), [OSI 7계층](https://github.com/SeoYeonBae/CS_study/tree/main/Network)
+
+- 12회차 : 02/01
+
+   > [트랜잭션 격리 수준, 레디스(Redis)](https://github.com/SeoYeonBae/CS_study/tree/main/DataBase)
+
+- 11회차 : 01/25
+
+   > [정규화(Normalization), 트랜잭션(Transaction)](https://github.com/SeoYeonBae/CS_study/tree/main/DataBase)
+
+- 10회차 : 01/19
+
+   > [이상(Anomaly), 인덱스(Index)](https://github.com/SeoYeonBae/CS_study/tree/main/DataBase)
+
+- 9회차 : 01/11
+
+   > [SQL Injection, SQL vs NoSQL](https://github.com/SeoYeonBae/CS_study/tree/main/DataBase)
+
+- 8회차 : 01/04
+
+   > [키(Key), 조인(Join)](https://github.com/SeoYeonBae/CS_study/tree/main/DataBase)
+   
+- 7회차 : 12/28
+
+   > [페이징과 세그먼테이션, 페이지 교체 알고리즘, 메모리(Memory), 파일 시스템(File System)](https://github.com/SeoYeonBae/CS_study/tree/main/OperatingSystem)
+   
+- 6회차 : 12/21
+
+   > [CPU 스케줄링, 데드락, 경쟁 상태, 세마포어와 뮤텍스](https://github.com/SeoYeonBae/CS_study/tree/main/OperatingSystem)
+   
+- 5회차 : 12/14
+
+   > [프로세스 주소 공간, 인터럽트, 시스템 콜, PCB와 Context Switching, IPC](https://github.com/SeoYeonBae/CS_study/tree/main/OperatingSystem)
+   
+- 4회차 : 12/02
+
+   > [Array & ArrayList & LinkedList, 이진 탐색 트리, B Tree & B+ Tree](https://github.com/SeoYeonBae/CS_study/tree/main/DataStructure), [운영체제란?, 프로세서 & 프로세스 & 스레드](https://github.com/SeoYeonBae/CS_study/tree/main/OperatingSystem)
+  
+- 3회차 : 11/09
+
+   > [연결리스트, 힙, 트리, 해시, 트라이](https://github.com/SeoYeonBae/CS_study/tree/main/DataStructure)
+
+- 2회차 : 11/02
+   
+   > [컴퓨터의 구성, ARM 프로세서](https://github.com/SeoYeonBae/CS_study/tree/main/ComputerArchitecture),  [배열, 스택과 큐](https://github.com/SeoYeonBae/CS_study/tree/main/DataStructure)
+
+- 1화차 : 10/24
+
+   > [CPU 작동원리, 캐시메모리, 고정소수점과 부동소수점, 패리티비트와 해밍코드](https://github.com/SeoYeonBae/CS_study/tree/main/ComputerArchitecture)
