@@ -120,6 +120,15 @@
 
    > [브라우저 동작 방법, 쿠키세션, HTTP Status Code, REST API](https://github.com/SeoYeonBae/CS_study/tree/main/web)
 
+- 22회차 : 05/24
+
+   > [Web Server와 WAS, OAuth, JWT(JSON Web Token), 인증 방식](https://github.com/SeoYeonBae/CS_study/tree/main/web)
+
+- 23회차 : 05/31
+
+   > [로깅 레벨(Logging Level), UI와 UX, CSR & SSR, 네이티브 앱 & 웹 앱 & 하이브리드 앱](https://github.com/SeoYeonBae/CS_study/tree/main/web)
+
+
 ## **📚 Contents**
 
 ### 📌 CS
