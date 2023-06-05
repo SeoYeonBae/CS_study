@@ -43,9 +43,9 @@
 - [뮤텍스와 세마포어의 차이](https://github.com/SeoYeonBae/CS_study/issues/35)
 - [Context Switching의 개념과 과정](https://github.com/SeoYeonBae/CS_study/issues/36)
 - [임계구역](https://github.com/SeoYeonBae/CS_study/issues/37)
-- 프로세스 혹은 스레드의 동기화란 무엇인가요?
-- 사용자 수준의 스레드와 커널 수준의 스레드의 차이는 무엇인가요?
-- fork()란 무엇인가요?
+- [프로세스 혹은 스레드의 동기화란 무엇인가요?](https://github.com/SeoYeonBae/CS_study/issues/38)
+- [사용자 수준의 스레드와 커널 수준의 스레드의 차이는 무엇인가요?](https://github.com/SeoYeonBae/CS_study/issues/39)
+- [fork()란 무엇인가요?](https://github.com/SeoYeonBae/CS_study/issues/40)
 - child process 와 zombie process
 - 동기와 비동기, 블로킹과 넌블로킹의 차이는 무엇인가요?
 - Swapping
