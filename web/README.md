@@ -15,7 +15,7 @@
 - [네이티브 앱 & 웹 앱 & 하이브리드 앱](https://github.com/SeoYeonBae/CS_study/blob/main/web/%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C%20%EC%95%B1%20%26%20%EC%9B%B9%20%EC%95%B1%20%26%20%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C%20%EC%95%B1.md)
 - Vue.js와 React
 - PWA(Progressive Web App)
-- CSRF & XSS
+- [CSRF & XSS](https://github.com/SeoYeonBae/CS_study/blob/main/web/CSRF%20%26%20XSS.md)
 
 ### 📌 Spring
 - Bean Scope
