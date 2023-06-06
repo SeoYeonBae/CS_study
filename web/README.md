@@ -25,3 +25,13 @@
 - JPA
 - 더티 체킹 (Dirty Checking)
 - Spring Security - 인증 및 권한 부여
+
+### 📌 Vue.js
+
+- Vue.js 라이프사이클
+- Nuxt.js
+
+### 📌 React
+
+- Fragment와 React Hook
+
