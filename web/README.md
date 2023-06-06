@@ -18,7 +18,7 @@
 - [CSRF & XSS](https://github.com/SeoYeonBae/CS_study/blob/main/web/CSRF%20%26%20XSS.md)
 
 ### 📌 Spring
-- Bean Scope
+- [Bean Scope](https://github.com/SeoYeonBae/CS_study/blob/main/web/Bean%20Scope.md)
 - MVC Framework
 - SpringApplication
 - Test Code
