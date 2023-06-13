@@ -21,7 +21,7 @@
 - [Bean Scope](https://github.com/SeoYeonBae/CS_study/blob/main/web/Bean%20Scope.md)
 - MVC Framework
 - SpringApplication
-- Test Code
+- [Test Code](https://github.com/SeoYeonBae/CS_study/blob/main/web/Test%20Code.md)
 - JPA
 - 더티 체킹 (Dirty Checking)
 - Spring Security - 인증 및 권한 부여
