@@ -21,7 +21,7 @@
 ### 📌 Spring
 
 - [Bean Scope](https://github.com/SeoYeonBae/CS_study/blob/main/web/Bean%20Scope.md)
-- MVC Framework
+- [MVC Framework](https://github.com/SeoYeonBae/CS_study/blob/main/web/Spring%20MVC%20Framework.md)
 - [SpringApplication](https://github.com/SeoYeonBae/CS_study/blob/main/web/SpringApplication.md)
 - [Test Code](https://github.com/SeoYeonBae/CS_study/blob/main/web/Test%20Code.md)
 - JPA
