@@ -46,12 +46,12 @@
 - [프로세스 혹은 스레드의 동기화란 무엇인가요?](https://github.com/SeoYeonBae/CS_study/issues/38)
 - [사용자 수준의 스레드와 커널 수준의 스레드의 차이는 무엇인가요?](https://github.com/SeoYeonBae/CS_study/issues/39)
 - [fork()란 무엇인가요?](https://github.com/SeoYeonBae/CS_study/issues/40)
-- child process 와 zombie process
-- 동기와 비동기, 블로킹과 넌블로킹의 차이는 무엇인가요?
-- Swapping
-- 은행원 알고리즘
-- Bounded- Buffer Problem
-- Readers and Writers Problem
+- [child process 와 zombie process](https://github.com/SeoYeonBae/CS_study/issues/41)
+- [동기와 비동기, 블로킹과 넌블로킹의 차이는 무엇인가요?](https://github.com/SeoYeonBae/CS_study/issues/42)
+- [Swapping](https://github.com/SeoYeonBae/CS_study/issues/43)
+- [은행원 알고리즘](https://github.com/SeoYeonBae/CS_study/issues/44)
+- [Bounded- Buffer Problem](https://github.com/SeoYeonBae/CS_study/issues/45)
+- [Readers and Writers Problem](https://github.com/SeoYeonBae/CS_study/issues/46)
 - Dining Philosophers Problem
 
 ### 📌 **Advanced**
