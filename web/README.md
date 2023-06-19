@@ -24,7 +24,7 @@
 - [MVC Framework](https://github.com/SeoYeonBae/CS_study/blob/main/web/Spring%20MVC%20Framework.md)
 - [SpringApplication](https://github.com/SeoYeonBae/CS_study/blob/main/web/SpringApplication.md)
 - [Test Code](https://github.com/SeoYeonBae/CS_study/blob/main/web/Test%20Code.md)
-- JPA
+- [JPA](https://github.com/SeoYeonBae/CS_study/blob/main/web/JPA.md)
 - 더티 체킹 (Dirty Checking)
 - Spring Security - 인증 및 권한 부여
 
