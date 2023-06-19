@@ -55,6 +55,16 @@
 
 ## **:sparkles: 진행 상황**
 
+- 28회차 : 06/21
+
+   > [JPA, 더티 체킹 (Dirty Checking), Spring Security - 인증 및 권한 부여, Nuxt.js](https://github.com/SeoYeonBae/CS_study/tree/main/web)
+   
+- 27회차 : 06/15
+
+   > [MVC Framework, SpringApplication, Test Code, Vue.js 라이프사이클](https://github.com/SeoYeonBae/CS_study/tree/main/web)
+
+📌 Vue.js
+
 - 26회차 : 06/06
 
    > [Vue.js와 React, PWA(Progressive Web App), CSRF & XSS, Bean Scope](https://github.com/SeoYeonBae/CS_study/tree/main/web)
