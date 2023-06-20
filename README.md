@@ -63,8 +63,6 @@
 
    > [MVC Framework, SpringApplication, Test Code, Vue.js 라이프사이클](https://github.com/SeoYeonBae/CS_study/tree/main/web)
 
-📌 Vue.js
-
 - 26회차 : 06/06
 
    > [Vue.js와 React, PWA(Progressive Web App), CSRF & XSS, Bean Scope](https://github.com/SeoYeonBae/CS_study/tree/main/web)
