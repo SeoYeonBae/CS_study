@@ -26,7 +26,7 @@
 - [Test Code](https://github.com/SeoYeonBae/CS_study/blob/main/web/Test%20Code.md)
 - [JPA](https://github.com/SeoYeonBae/CS_study/blob/main/web/JPA.md)
 - [더티 체킹 (Dirty Checking)](<https://github.com/SeoYeonBae/CS_study/blob/main/web/%EB%8D%94%ED%8B%B0%20%EC%B2%B4%ED%82%B9%20(Dirty%20Checking).md>)
-- Spring Security - 인증 및 권한 부여
+- [Spring Security - 인증 및 권한 부여](https://github.com/SeoYeonBae/CS_study/blob/main/web/Spring%20Security%20-%20%EC%9D%B8%EC%A6%9D%20%EB%B0%8F%20%EA%B6%8C%ED%95%9C%20%EB%B6%80%EC%97%AC.md)
 
 ### 📌 Vue.js
 
