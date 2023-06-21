@@ -31,7 +31,7 @@
 ### 📌 Vue.js
 
 - [Vue.js 라이프사이클](https://github.com/SeoYeonBae/CS_study/blob/main/web/Vue.js%20%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4.md)
-- Nuxt.js
+- [Nuxt.js](https://github.com/SeoYeonBae/CS_study/blob/main/web/Nuxt.js.md)
 
 ### 📌 React
 
