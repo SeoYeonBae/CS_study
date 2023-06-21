@@ -1,6 +1,6 @@
 
 
-# Nuxt.js
+# 👩‍💻Nuxt.js
 
 * Google Trends - Nuxt.js
 * 2018년도부터 부상한 Vue 프레임워크
@@ -22,6 +22,7 @@
 <br>
 
 ## 디렉토리 구조 차이
+![image](https://github.com/SeoYeonBae/CS_study/assets/63834758/698f23c8-4868-4bba-901e-3af327b0690d)
 
 * 전반적으로 Vue.js 프로젝트의 src 폴더 아래에 있던 코드들이 루트 레벨로 올라옴
 * Vue.js 프로젝트의 router 와 view 폴더를 Nuxt.js에선 pages 폴더가 대신함
