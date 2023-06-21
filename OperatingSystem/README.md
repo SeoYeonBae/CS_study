@@ -52,12 +52,12 @@
 - [은행원 알고리즘](https://github.com/SeoYeonBae/CS_study/issues/44)
 - [Bounded- Buffer Problem](https://github.com/SeoYeonBae/CS_study/issues/45)
 - [Readers and Writers Problem](https://github.com/SeoYeonBae/CS_study/issues/46)
-- Dining Philosophers Problem
+- [Dining Philosophers Problem](https://github.com/SeoYeonBae/CS_study/issues/47)
 
 ### 📌 **Advanced**
 
-- Call Stack에 대해 설명하시오
-- Heap Corruption에 대해 설명하시오
+- [Call Stack에 대해 설명하시오](https://github.com/SeoYeonBae/CS_study/issues/48)
+- [Heap Corruption에 대해 설명하시오](https://github.com/SeoYeonBae/CS_study/issues/49)
 - Heap 메모리는 무엇이고 사용하는 이유는 무엇인가
 - Heap과 Stack의 장단점 비교 (속도, 크기 등)
 - 거짓 에 대해 설명하시오
