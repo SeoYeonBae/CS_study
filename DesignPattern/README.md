@@ -1,4 +1,3 @@
-### :sparkels: Design Pattern
 
 # 📌 이론 
 
