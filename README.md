@@ -55,6 +55,10 @@
 
 ## **:sparkles: 진행 상황**
 
+- 29회차 : 06/28
+
+   > [Fragment와 React Hook](https://github.com/SeoYeonBae/CS_study/tree/main/web), [디자인패턴 개요, 어댑터 패턴, 싱글톤 패턴](https://github.com/SeoYeonBae/CS_study/tree/main/DesignPattern)
+
 - 28회차 : 06/21
 
    > [JPA, 더티 체킹 (Dirty Checking), Spring Security - 인증 및 권한 부여, Nuxt.js](https://github.com/SeoYeonBae/CS_study/tree/main/web)
