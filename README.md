@@ -24,8 +24,13 @@
 - 본인이 맡은 주제는 링크 직접 연결하기
 - 활동 못 하는 사유는 화요일까지 미리 말하기
 - 이외 특이사항은 카톡이나 엠엠 단톡방 활용
-- 벌트](https://github.com/SeoYeonBae/CS_study/tree/main/DesignPattern)
 
+## **:sparkles: 진행상황**
+
+- 30회차 : 07/05
+
+   >[프로토타입, 팩토리 메소드, 프록시, 컴포지트](https://github.com/SeoYeonBae/CS_study/tree/main/DesignPattern)
+  
 - 29회차 : 06/28
 
    > [Fragment와 React Hook](https://github.com/SeoYeonBae/CS_study/tree/main/web), [디자인패턴 개요, 어댑터 패턴, 싱글톤 패턴](https://github.com/SeoYeonBae/CS_study/tree/main/DesignPattern)
