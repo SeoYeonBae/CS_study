@@ -25,6 +25,20 @@
 - 활동 못 하는 사유는 화요일까지 미리 말하기
 - 이외 특이사항은 카톡이나 엠엠 단톡방 활용
 
+## **📚 Contents**
+### 📌 CS
+### **[1. Computer Architecture](https://github.com/SeoYeonBae/CS_study/tree/main/ComputerArchitecture)**
+### **[2. Data Structure](https://github.com/SeoYeonBae/CS_study/tree/main/DataStructure)**
+### **[3. Operating System](https://github.com/SeoYeonBae/CS_study/tree/main/OperatingSystem)**
+### **[4. Database](https://github.com/SeoYeonBae/CS_study/tree/main/DataBase)**
+### **[5. Network](https://github.com/SeoYeonBae/CS_study/tree/main/Network)**
+### **[6. Software Engineering](https://github.com/SeoYeonBae/CS_study/tree/main/SoftwareEngineering)**
+### 📌 ETC
+### **[1. algorithm](https://github.com/SeoYeonBae/CS_study/tree/main/Algoritm)**
+### **[2. Design Pattern](https://github.com/SeoYeonBae/CS_study/tree/main/DesignPattern)**
+### **[3. Web](https://github.com/SeoYeonBae/CS_study/tree/main/web)**
+### **[4. Etc](https://github.com/SeoYeonBae/CS_study/tree/main/Etc)**
+
 ## **:sparkles: 진행상황**
 
 - 30회차 : 07/05
