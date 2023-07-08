@@ -18,6 +18,6 @@
 
 ### 행위 패턴
 
-- 옵저버 패턴
+- [옵저버 패턴](https://github.com/SeoYeonBae/CS_study/blob/main/DesignPattern/%EC%98%B5%EC%A0%80%EB%B2%84%20%ED%8C%A8%ED%84%B4.md)
 - 스트레티지 패턴
 - 템플릿 메소드 패턴
