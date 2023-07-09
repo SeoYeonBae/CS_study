@@ -12,9 +12,9 @@
 ### 구조 패턴
 
 - [어댑터 패턴](https://github.com/SeoYeonBae/CS_study/blob/main/DesignPattern/%EC%96%B4%EB%8C%91%ED%84%B0%20%ED%8C%A8%ED%84%B4.md)
-- [프록시](https://github.com/SeoYeonBae/CS_study/blob/main/DesignPattern/프록시.md)
+- [프록시 패턴](https://github.com/SeoYeonBae/CS_study/blob/main/DesignPattern/프록시.md)
 - [컴포지트 패턴](https://github.com/SeoYeonBae/CS_study/blob/main/DesignPattern/%EC%BB%B4%ED%8F%AC%EC%A7%80%ED%8A%B8%20%ED%8C%A8%ED%84%B4.md)
-- 브리지
+- [브리지 패턴](https://github.com/SeoYeonBae/CS_study/blob/main/DesignPattern/%EB%B8%8C%EB%A6%AC%EC%A7%80%20%ED%8C%A8%ED%84%B4.md)
 
 ### 행위 패턴
 
