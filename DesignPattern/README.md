@@ -19,5 +19,5 @@
 ### 행위 패턴
 
 - [옵저버 패턴](https://github.com/SeoYeonBae/CS_study/blob/main/DesignPattern/%EC%98%B5%EC%A0%80%EB%B2%84%20%ED%8C%A8%ED%84%B4.md)
-- 스트레티지 패턴
+- [스트레티지 패턴](https://github.com/SeoYeonBae/CS_study/blob/main/DesignPattern/%EC%8A%A4%ED%8A%B8%EB%A0%88%ED%8B%B0%EC%A7%80%20%ED%8C%A8%ED%84%B4.md)
 - 템플릿 메소드 패턴
