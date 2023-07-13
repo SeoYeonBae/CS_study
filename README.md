@@ -41,6 +41,10 @@
 
 ## **:sparkles: 진행상황**
 
+- 31회차 : 07/13
+
+  >[브리지 패턴, 옵저버 패턴, 스트레티지 패턴, 템플릿 메소드 패턴](https://github.com/SeoYeonBae/CS_study/tree/main/DesignPattern)
+
 - 30회차 : 07/05
 
    >[프로토타입, 팩토리 메소드, 프록시, 컴포지트](https://github.com/SeoYeonBae/CS_study/tree/main/DesignPattern)
