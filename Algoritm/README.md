@@ -3,7 +3,7 @@
 ### 📌 이론
 
 - [시간 복잡도란?](https://github.com/SeoYeonBae/CS_study/blob/main/Algoritm/%EC%8B%9C%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
-- 거품 정렬(Bubble Sort)
+- [거품 정렬(Bubble Sort)](https://github.com/SeoYeonBae/CS_study/blob/main/Algoritm/%EA%B1%B0%ED%92%88%20%EC%A0%95%EB%A0%AC(Bubble%20Sort).md)
 - 선택 정렬(Selection Sort)
 - [삽입 정렬(Insertion Sort)](<https://github.com/SeoYeonBae/CS_study/blob/main/Algoritm/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC(Insertion%20Sort).md>)
 - 퀵 정렬(Quick Sort)
