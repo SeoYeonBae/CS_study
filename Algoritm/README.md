@@ -1,10 +1,11 @@
 # :sparkles: Algorithm
 
 ### 📌 이론
+
 - [시간 복잡도란?](https://github.com/SeoYeonBae/CS_study/blob/main/Algoritm/%EC%8B%9C%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
 - 거품 정렬(Bubble Sort)
 - 선택 정렬(Selection Sort)
-- 삽입 정렬(Insertion Sort)
+- [삽입 정렬(Insertion Sort)](<https://github.com/SeoYeonBae/CS_study/blob/main/Algoritm/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC(Insertion%20Sort).md>)
 - 퀵 정렬(Quick Sort)
 - 병합 정렬(Merge Sort)
 - 힙 정렬(Heap Sort)
@@ -21,6 +22,7 @@
 - 비트마스크(BitMask)
 
 ### 📌 면접 예상 질문
+
 - 시간 복잡도란 무엇인가
 - 시간 복잡도는 실제 수행 시간과 어떤 관계가 있는가?
 - 시간복잡도가 작은 알고리즘은 무조건 빠른가?
