@@ -34,12 +34,17 @@
 ### **[5. Network](https://github.com/SeoYeonBae/CS_study/tree/main/Network)**
 ### **[6. Software Engineering](https://github.com/SeoYeonBae/CS_study/tree/main/SoftwareEngineering)**
 ### 📌 ETC
-### **[1. algorithm](https://github.com/SeoYeonBae/CS_study/tree/main/Algoritm)**
+### **[1. Algorithm](https://github.com/SeoYeonBae/CS_study/tree/main/Algoritm)**
 ### **[2. Design Pattern](https://github.com/SeoYeonBae/CS_study/tree/main/DesignPattern)**
 ### **[3. Web](https://github.com/SeoYeonBae/CS_study/tree/main/web)**
 ### **[4. Etc](https://github.com/SeoYeonBae/CS_study/tree/main/Etc)**
 
 ## **:sparkles: 진행상황**
+
+- 32회차 : 07/18
+
+   >[시간 복잡도, 거품 정렬, 선택 정렬, 삽입 정렬, 퀵 정렬](https://github.com/SeoYeonBae/CS_study/tree/main/Algoritm)
+
 
 - 31회차 : 07/13
 
