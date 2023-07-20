@@ -20,9 +20,9 @@
 - [NoSQL vs RDBMS](https://github.com/SeoYeonBae/CS_study/issues/54)
 - [트랜잭션이란 무엇인가요? 4가지 원칙을 포함해서 설명해 주세요.](https://github.com/SeoYeonBae/CS_study/issues/55)
 - [트랜잭션의 격리 수준과 각 수준에서 발생할 수 있는 문제들에 대해 말해보세요.](https://github.com/SeoYeonBae/CS_study/issues/56)
-- 인덱스의 알고리즘에는 어떤 것들이 있나요?
-- JOIN에 대해서 설명해 주세요.
-- 내부 조인과 외부 조인의 차이는 무엇인가요?
+- [인덱스의 알고리즘에는 어떤 것들이 있나요?](https://github.com/SeoYeonBae/CS_study/issues/57)
+- [JOIN에 대해서 설명해 주세요.](https://github.com/SeoYeonBae/CS_study/issues/58)
+- [내부 조인과 외부 조인의 차이는 무엇인가요?](https://github.com/SeoYeonBae/CS_study/issues/59)
 - 정규화에 대해서 설명해 주세요.
 - 파티셔닝과 샤딩에 대해서 설명해 주세요.
 - 스키마란 무엇인가요?
