@@ -41,10 +41,9 @@
 
 ## **:sparkles: 진행상황**
 
-- 32회차 : 07/18
+- 32회차 : 07/20
 
-   >[시간 복잡도, 거품 정렬, 선택 정렬, 삽입 정렬, 퀵 정렬](https://github.com/SeoYeonBae/CS_study/tree/main/Algoritm)
-
+   >[SOLID](https://github.com/SeoYeonBae/CS_study/tree/main/DesignPattern), [거품 정렬, 선택 정렬, 삽입 정렬, 퀵 정렬](https://github.com/SeoYeonBae/CS_study/tree/main/Algoritm)
 
 - 31회차 : 07/13
 
