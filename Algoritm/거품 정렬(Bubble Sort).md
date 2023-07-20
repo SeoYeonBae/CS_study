@@ -91,7 +91,9 @@
 <br>
 
 <hr>
+
 #### 참고자료
+
 - [[알고리즘] 버블 정렬(거품정렬, Bubble Sort)](https://hongcoding.tistory.com/182)
 - [[알고리즘] 버블정렬(bubble sort)이란?](https://code-lab1.tistory.com/21)
 - [거품 정렬(Bubble Sort)](https://gyoogle.dev/blog/algorithm/Bubble%20Sort.html)
