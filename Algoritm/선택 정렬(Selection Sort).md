@@ -62,3 +62,9 @@ public static void selectionSort(int[] A, int n) {
 
 ### 😥 단점
 - 시간 복잡도가 항상 `O(n^2)`로 퀵, 삽입 정렬에 비해 속도가 느린 편이다.
+
+<hr>
+
+### 참고
+- [선택정렬(Selection Sort)이란?](https://ssdragon.tistory.com/110)
+- [선택 정렬](https://ko.wikipedia.org/wiki/%EC%84%A0%ED%83%9D_%EC%A0%95%EB%A0%AC)
