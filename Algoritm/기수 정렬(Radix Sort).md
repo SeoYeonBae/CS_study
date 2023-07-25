@@ -1,4 +1,4 @@
-bㅠbㅠㅠ# :pushpin: 기수 정렬(Radix Sort)
+# :pushpin: 기수 정렬(Radix Sort)
 
 ## :computer: 기수 정렬이란?
 
