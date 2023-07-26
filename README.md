@@ -43,7 +43,7 @@
 
 - 33회차 : 07/26
 
-   >[퀵 정렬(Quick Sort), 병합 정렬(Merge Sort), 힙 정렬(Heap Sort), 기수 정렬(Radix Sort)](https://github.com/SeoYeonBae/CS_study/tree/main/Algoritm)
+   >[퀵 정렬, 병합 정렬, 힙 정렬, 기수 정렬](https://github.com/SeoYeonBae/CS_study/tree/main/Algoritm)
 
 - 32회차 : 07/20
 
