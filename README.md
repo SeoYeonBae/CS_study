@@ -41,9 +41,13 @@
 
 ## **:sparkles: 진행상황**
 
+- 33회차 : 07/26
+
+   >[퀵 정렬(Quick Sort), 병합 정렬(Merge Sort), 힙 정렬(Heap Sort), 기수 정렬(Radix Sort)](https://github.com/SeoYeonBae/CS_study/tree/main/Algoritm)
+
 - 32회차 : 07/20
 
-   >[SOLID](https://github.com/SeoYeonBae/CS_study/tree/main/DesignPattern), [거품 정렬, 선택 정렬, 삽입 정렬, 퀵 정렬](https://github.com/SeoYeonBae/CS_study/tree/main/Algoritm)
+   >[SOLID](https://github.com/SeoYeonBae/CS_study/tree/main/DesignPattern), [거품 정렬, 선택 정렬, 삽입 정렬](https://github.com/SeoYeonBae/CS_study/tree/main/Algoritm)
 
 - 31회차 : 07/13
 
