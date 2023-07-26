@@ -19,7 +19,14 @@
    a. 교환한 원소의 부모자식의 크기가 힙 성질에 만족하는지 확인한다. (재귀 반복)
    b. 힙 성질 만족하는 경우를 만나면 중단한다.
 3. 최대 힙의 경우 루트에 있는 값이 가장 큰 값이기에 배열의 첫번째에 위치한 이 값을 배열의 맨 오른쪽 원소와 교환한다.
+
+![image](https://github.com/SeoYeonBae/CS_study/assets/63505110/b9df816e-f79c-4d5c-8cff-cbb849452ebb)
+![image](https://github.com/SeoYeonBae/CS_study/assets/63505110/80d9fec0-c4b6-4b9e-ad6b-f99c9218e882)
+
 4. 베열의 맨 오른쪽 원소를 제외하고 다시 힙 상태로 만든 뒤 3의 과정을 반복한다.
+
+![image](https://github.com/SeoYeonBae/CS_study/assets/63505110/725be7be-30e5-4591-b292-0d7dd7265974)
+
 
 ```java
    public static void heapSort(int[] arr, int n) {
