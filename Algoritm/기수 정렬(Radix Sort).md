@@ -40,7 +40,7 @@ _LSD 기준으로 설명!_
 
 ![image](https://github.com/SeoYeonBae/CS_study/assets/69101568/343ca095-0799-40bc-b2c8-e7ff07e4c1bc)
 
-## :computer: 삽입 정렬 java 코드
+## :computer: 기수 정렬 java 코드
 
 ```
 public class Main {
@@ -92,7 +92,6 @@ public class Main {
 
 :heavy_check_mark: 단점
 
-- 배열 사이즈 n만큼 돌 때, 증가시켜주는 count 배열의 크기가 큼
 - 메모리 낭비가 심함
 
 ---
@@ -101,5 +100,5 @@ public class Main {
 
 참고
 
-- [계수 정렬(Counting Sort)](https://gyoogle.dev/blog/algorithm/Counting%20Sort.html)
+- [기수 정렬(Radix sort)](https://gyoogle.dev/blog/algorithm/Counting%20Sort.html)
 - [[정렬] 7. 한 살도 이해하는 기수 정렬(radix sort)](https://10000cow.tistory.com/entry/%EC%A0%95%EB%A0%AC-7-%EA%B8%B0%EC%88%98-%EC%A0%95%EB%A0%ACradix-sort) -[기수 정렬(Radix Sort)](https://sorjfkrh5078.tistory.com/21)
