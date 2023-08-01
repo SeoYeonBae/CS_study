@@ -52,14 +52,24 @@
 
 ## 3. 시간복잡도
 
-이진 탐색 알고리즘은 중간 값과 찾고자하는 값의 비교가 이루어질때마다 탐색 범위가 1/2로 줄어든다.  
-정렬된 데이터의 크기를 n으로, 비교 횟수를 k라고 정의하자.
+이진 탐색 알고리즘은 중간 값과 찾고자하는 값의 비교가 이루어질때마다 **탐색 범위가 1/2로** 줄어든다.  
+정렬된 **데이터의 크기를 n**으로, **비교 횟수를 k**라고 정의하자.
   
-n * (2/1)^k = 1  
-n = 2^k  
-k = log n  
   
-즉, n크기의 데이터에 대한 이진탐색 알고리즘의 시간복잡도는 **O(log n)**
+- 탐색이 끝나는 시점에는, 남은 자료가 1개에 근사하다고 볼 수 있다.
+  
+  ![image](https://github.com/SeoYeonBae/CS_study/assets/63834758/dc37da37-3679-4483-a23c-1768c6fa97f8)
+
+- 양 변에 2^k 곱하기
+  
+  ![image](https://github.com/SeoYeonBae/CS_study/assets/63834758/3cc4ac5d-029a-4c29-9c33-4a68f3d038dc)
+
+- 로그 취하기
+  
+  ![image](https://github.com/SeoYeonBae/CS_study/assets/63834758/41dcee58-763c-4d39-a900-55011e5e6e39)
+
+
+즉, n크기의 데이터에 대한 시간복잡도는 **O(log n)**
 
 <br>
 
@@ -76,5 +86,5 @@ k = log n
 
 - [[알고리즘] 이분 탐색 / 이진 탐색 (Binary Search)](https://velog.io/@kimdukbae/%EC%9D%B4%EB%B6%84-%ED%83%90%EC%83%89-%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89-Binary-Search)
 - [[알고리즘] 이진(이분) 탐색(Binary Search)](https://computer-science-student.tistory.com/565)
-- [[ 알고리즘] 이분탐색(Binary Search)](https://tnwlswkd.tistory.com/112)
+- [[알고리즘] 이분탐색(Binary Search)](https://tnwlswkd.tistory.com/112)
 - [이진탐색](https://velog.io/@ssuda/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89Binary-Search-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
