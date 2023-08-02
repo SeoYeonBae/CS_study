@@ -25,5 +25,5 @@
 - [내부 조인과 외부 조인의 차이는 무엇인가요?](https://github.com/SeoYeonBae/CS_study/issues/59)
 - [정규화에 대해서 설명해 주세요.](https://github.com/SeoYeonBae/CS_study/issues/60)
 - [파티셔닝과 샤딩에 대해서 설명해 주세요.](https://github.com/SeoYeonBae/CS_study/issues/61)
-- 스키마란 무엇인가요?
-- ORM이란 무엇인가요?
+- [스키마란 무엇인가요?](https://github.com/SeoYeonBae/CS_study/issues/62)
+- [ORM이란 무엇인가요?](https://github.com/SeoYeonBae/CS_study/issues/63)
