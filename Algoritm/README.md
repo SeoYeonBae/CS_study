@@ -13,7 +13,6 @@
 - [계수 정렬(Counting Sort)](<https://github.com/SeoYeonBae/CS_study/blob/main/Algoritm/%EA%B3%84%EC%88%98%20%EC%A0%95%EB%A0%AC(Counting%20Sort).md>)
 - [이분 탐색(Binary Search)](https://github.com/SeoYeonBae/CS_study/blob/main/Algoritm/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89(Binary%20Search).md)
 - [해시 테이블(Hash Table)](https://github.com/SeoYeonBae/CS_study/blob/main/Algoritm/%ED%95%B4%EC%8B%9C%20%ED%85%8C%EC%9D%B4%EB%B8%94(Hash%20Table).md)
-- [해시 맵(Hash Map)](https://github.com/SeoYeonBae/CS_study/tree/main/Algoritm)
 - DFS & BFS
 - 최장 증가 수열(LIS)
 - 최소 공통 조상(LCA)
