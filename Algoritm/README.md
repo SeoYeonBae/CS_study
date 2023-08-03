@@ -16,7 +16,7 @@
 - DFS & BFS
 - 최장 증가 수열(LIS)
 - 최소 공통 조상(LCA)
-- 동적 계획법(DP)
+- [동적 계획법(DP)](https://github.com/SeoYeonBae/CS_study/blob/main/Algoritm/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(DP).md)
 - 다익스트라(Dijkstra) 알고리즘
 - 비트마스크(BitMask)
 
