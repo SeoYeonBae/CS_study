@@ -15,9 +15,9 @@
 
 ### 📌 예상 질문
 
-- TCP 와 UDP의 특징과 차이점에 대해 설명하시오.
-- HTTP GET과 POST의 차이는 무엇인가요?
-- 3-way hand shake, 4-way hand shake 흐름에 대해서 설명해주세요.
+- [TCP 와 UDP의 특징과 차이점에 대해 설명하시오.](https://github.com/SeoYeonBae/CS_study/issues/64)
+- [HTTP GET과 POST의 차이는 무엇인가요?](https://github.com/SeoYeonBae/CS_study/issues/65)
+- [3-way hand shake, 4-way hand shake 흐름에 대해서 설명해주세요.](https://github.com/SeoYeonBae/CS_study/issues/66)
 - TCP의 신뢰성 보장은 어떻게?
 - TCP RST
 - OSI 7계층
