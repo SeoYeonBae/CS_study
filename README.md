@@ -41,6 +41,14 @@
 
 ## **:sparkles: 진행상황**
 
+- 35회차 : 08/10
+
+   >[DFS & BFS, 최장 증가 수열, 최소 공통 조상, 동적 계획법](https://github.com/SeoYeonBae/CS_study/tree/main/Algoritm)
+
+- 34회차 : 08/02
+
+   >[계수 정렬, 이분 탐색, 해시 테이블, 해시 맵](https://github.com/SeoYeonBae/CS_study/tree/main/Algoritm)
+   
 - 33회차 : 07/26
 
    >[퀵 정렬, 병합 정렬, 힙 정렬, 기수 정렬](https://github.com/SeoYeonBae/CS_study/tree/main/Algoritm)
