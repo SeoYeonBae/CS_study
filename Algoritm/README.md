@@ -17,8 +17,10 @@
 - [최장 증가 수열(LIS)](<https://github.com/SeoYeonBae/CS_study/blob/main/Algoritm/%EC%B5%9C%EC%9E%A5%20%EC%A6%9D%EA%B0%80%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4(LIS).md>)
 - [최소 공통 조상(LCA)](https://github.com/SeoYeonBae/CS_study/blob/main/Algoritm/%EC%B5%9C%EC%86%8C%20%EA%B3%B5%ED%86%B5%20%EC%A1%B0%EC%83%81(LCA).md)
 - [동적 계획법(DP)](<https://github.com/SeoYeonBae/CS_study/blob/main/Algoritm/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(DP).md>)
-- 다익스트라(Dijkstra) 알고리즘
+- 다익스트라(Dijkstra)
 - 비트마스크(BitMask)
+- 프림(Prim)
+- 크루스칼(Kruskal)
 
 ### 📌 면접 예상 질문
 
