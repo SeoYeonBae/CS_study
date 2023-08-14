@@ -19,7 +19,7 @@
 - [동적 계획법(DP)](<https://github.com/SeoYeonBae/CS_study/blob/main/Algoritm/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95(DP).md>)
 - 다익스트라(Dijkstra)
 - 비트마스크(BitMask)
-- 프림(Prim)
+- [프림(Prim)](https://github.com/SeoYeonBae/CS_study/blob/main/Algoritm/%ED%94%84%EB%A6%BC(Prim).md)
 - [크루스칼(Kruskal)](https://github.com/SeoYeonBae/CS_study/blob/main/Algoritm/%ED%81%AC%EB%A3%A8%EC%8A%A4%EC%B9%BC(Kruskal).md)
 
 ### 📌 면접 예상 질문
