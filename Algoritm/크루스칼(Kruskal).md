@@ -169,3 +169,4 @@ public class KruskalTest {
 
 - [크루스칼 알고리즘(Kruskal Algorithm), 최소 신장 트리(MST)](https://chanhuiseok.github.io/posts/algo-33/)
 - [크루스칼 알고리즘(Kruskal Algorithm](https://m.blog.naver.com/ndb796/221230994142)
+- [[그리디] 크루스칼, 프림 알고리즘](https://velog.io/@jxlhe46/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-MST)
