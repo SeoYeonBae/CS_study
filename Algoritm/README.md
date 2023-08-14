@@ -20,7 +20,7 @@
 - 다익스트라(Dijkstra)
 - 비트마스크(BitMask)
 - 프림(Prim)
-- 크루스칼(Kruskal)
+- [크루스칼(Kruskal)](https://github.com/SeoYeonBae/CS_study/blob/main/Algoritm/%ED%81%AC%EB%A3%A8%EC%8A%A4%EC%B9%BC(Kruskal).md)
 
 ### 📌 면접 예상 질문
 
