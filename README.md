@@ -41,6 +41,10 @@
 
 ## **:sparkles: 진행상황**
 
+- 36회차 : 08/17
+
+   >[다익스트라, 비트마스크, 프림, 크루스칼](https://github.com/SeoYeonBae/CS_study/tree/main/Algoritm)
+
 - 35회차 : 08/10
 
    >[DFS & BFS, 최장 증가 수열, 최소 공통 조상, 동적 계획법](https://github.com/SeoYeonBae/CS_study/tree/main/Algoritm)
