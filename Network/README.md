@@ -24,9 +24,9 @@
 - [TCP/IP 4계층에 대해서 설명해주세요.](https://github.com/SeoYeonBae/CS_study/issues/70)
 - [DNS가 무엇인가요?](https://github.com/SeoYeonBae/CS_study/issues/71)
 - [도메인 이름으로 실제 IP를 어떻게 찾을 수 있는지 흐름을 설명해 주세요.](https://github.com/SeoYeonBae/CS_study/issues/72)
-- TCP 헤더에 대해서 설명해 주세요.
-- 대칭키와 공개키
-- HTTP 프로토콜에 대해서 아는대로 말해주세요.
+- [TCP 헤더에 대해서 설명해 주세요.](https://github.com/SeoYeonBae/CS_study/issues/73)
+- [대칭키와 공개키](https://github.com/SeoYeonBae/CS_study/issues/74)
+- [HTTP 프로토콜에 대해서 아는대로 말해주세요.](https://github.com/SeoYeonBae/CS_study/issues/75)
 - HTTP와 HTTPS 의 차이는 무엇인가요?
 - HTTP 1.0과 1.1의 차이는 무엇인가요?
 - HTTP 헤더의 구조에 대해서 설명해 주세요.
