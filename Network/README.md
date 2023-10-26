@@ -33,9 +33,9 @@
 - [쿠키와 세션에 대해서 설명해 주세요.](https://github.com/SeoYeonBae/CS_study/issues/79)
 - [웹브라우저에서 서버로 요청했을 때, 흐름을 설명해주세요.](https://github.com/SeoYeonBae/CS_study/issues/80)
 - [CORS란 무엇인가요?](https://github.com/SeoYeonBae/CS_study/issues/81)
-- 웹 서버와 웹 어플리케이션 서버(WAS)의 차이는 무엇인가요?
-- REST API에 대해서 설명해 주세요.
-- API Gateway란 무엇인가요?
+- [웹 서버와 웹 어플리케이션 서버(WAS)의 차이는 무엇인가요?](https://github.com/SeoYeonBae/CS_study/issues/82)
+- [REST API에 대해서 설명해 주세요.](https://github.com/SeoYeonBae/CS_study/issues/83)
+- [API Gateway란 무엇인가요?](https://github.com/SeoYeonBae/CS_study/issues/84)
 - 흐름제어 / 혼잡제어 / 오류제어
 - JSON과 XML을 비교하시오.
 - Stateless와 Stateful 개념에 대해 설명하시오.(Http, REST 관련)
