@@ -24,9 +24,9 @@
 
 ### 📌 면접 예상 질문
 
-- 시간 복잡도란 무엇인가
-- 시간 복잡도는 실제 수행 시간과 어떤 관계가 있는가?
-- 시간복잡도가 작은 알고리즘은 무조건 빠른가?
+- [시간 복잡도란 무엇인가](https://github.com/SeoYeonBae/CS_study/issues/88)
+- [시간 복잡도는 실제 수행 시간과 어떤 관계가 있는가?](https://github.com/SeoYeonBae/CS_study/issues/89)
+- [시간복잡도가 작은 알고리즘은 무조건 빠른가?](https://github.com/SeoYeonBae/CS_study/issues/90)
 - 최악의 복잡도는 나쁘지만 실제로는 자주 사용되는 알고리즘을 나열하시오
 - 분할정복에 대해 설명하고 그 예시를 드시오
 - call by Value 와 call by Reference 의 차이점에 대해 설명하시오.
