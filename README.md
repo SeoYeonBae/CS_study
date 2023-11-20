@@ -34,7 +34,7 @@
 ### **[5. Network](https://github.com/SeoYeonBae/CS_study/tree/main/Network)**
 ### **[6. Software Engineering](https://github.com/SeoYeonBae/CS_study/tree/main/SoftwareEngineering)**
 ### 📌 ETC
-### **[1. Algorithm](https://github.com/SeoYeonBae/CS_study/tree/main/Algoritm)**
+### **[1. Algorithm](https://github.com/SeoYeonBae/CS_study/tree/main/Algorithm)**
 ### **[2. Design Pattern](https://github.com/SeoYeonBae/CS_study/tree/main/DesignPattern)**
 ### **[3. Web](https://github.com/SeoYeonBae/CS_study/tree/main/web)**
 ### **[4. Etc](https://github.com/SeoYeonBae/CS_study/tree/main/Etc)**
