@@ -27,17 +27,17 @@
 - [시간 복잡도란 무엇인가](https://github.com/SeoYeonBae/CS_study/issues/88)
 - [시간 복잡도는 실제 수행 시간과 어떤 관계가 있는가?](https://github.com/SeoYeonBae/CS_study/issues/89)
 - [시간복잡도가 작은 알고리즘은 무조건 빠른가?](https://github.com/SeoYeonBae/CS_study/issues/90)
-- 최악의 복잡도는 나쁘지만 실제로는 자주 사용되는 알고리즘을 나열하시오
-- 분할정복에 대해 설명하고 그 예시를 드시오
-- call by Value 와 call by Reference 의 차이점에 대해 설명하시오.
-- 빅오 표기법에 대해서 설명해주세요.
+- [최악의 복잡도는 나쁘지만 실제로는 자주 사용되는 알고리즘을 나열하시오](https://github.com/SeoYeonBae/CS_study/issues/91)
+- [분할정복에 대해 설명하고 그 예시를 드시오](https://github.com/SeoYeonBae/CS_study/issues/92)
+- [call by Value 와 call by Reference 의 차이점에 대해 설명하시오.](https://github.com/SeoYeonBae/CS_study/issues/93)
+- [빅오 표기법에 대해서 설명해주세요.](https://github.com/SeoYeonBae/CS_study/issues/94)
 - DFS & BFS
 - 다익스트라 알고리즘에 대해서 설명해 주세요.
 - 프림 알고리즘에 대해서 설명해 주세요.
 - 크루스칼 알고리즘과 프림 알고리즘에 대해서 설명해 주세요.
 - 인접행렬과 인접리스트에 대해 설명하시오
 - HashTable vs HashMap의 차이점에 대해 설명하시오
-- 공간복잡도
+- 공간복잡도란?
 - 54321 배열이 있을 때, 어떤 정렬을 사용하면 좋을까요?
 - 랜덤으로 배치된 배열이 있을때, 어떤 정렬을 사용하면 좋을까요?
 - 자릿수가 모두 같은 수가 담긴 배열이 있을 때, 어떤 정렬을 사용하면 좋을까요?
