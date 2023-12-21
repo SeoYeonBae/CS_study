@@ -31,9 +31,9 @@
 - [분할정복에 대해 설명하고 그 예시를 드시오](https://github.com/SeoYeonBae/CS_study/issues/92)
 - [call by Value 와 call by Reference 의 차이점에 대해 설명하시오.](https://github.com/SeoYeonBae/CS_study/issues/93)
 - [빅오 표기법에 대해서 설명해주세요.](https://github.com/SeoYeonBae/CS_study/issues/94)
-- DFS & BFS
-- 다익스트라 알고리즘에 대해서 설명해 주세요.
-- 프림 알고리즘에 대해서 설명해 주세요.
+- [DFS & BFS](https://github.com/SeoYeonBae/CS_study/issues/95)
+- [다익스트라 알고리즘에 대해서 설명해 주세요.](https://github.com/SeoYeonBae/CS_study/issues/96)
+- [프림 알고리즘에 대해서 설명해 주세요.](https://github.com/SeoYeonBae/CS_study/issues/97)
 - 크루스칼 알고리즘과 프림 알고리즘에 대해서 설명해 주세요.
 - 인접행렬과 인접리스트에 대해 설명하시오
 - HashTable vs HashMap의 차이점에 대해 설명하시오
