@@ -92,7 +92,7 @@ public class Main {
 
 :heavy_check_mark: 단점
 
-- 메모리 낭비가 심함
+- 추가적으로 버킷을 사용하기 때문에 데이터 크기에 비례한 메모리가 필요하다
 
 ---
 
@@ -100,5 +100,6 @@ public class Main {
 
 참고
 
-- [기수 정렬(Radix sort)](https://gyoogle.dev/blog/algorithm/Counting%20Sort.html)
+- [기수 정렬(Radix sort)](https://gyoogle.dev/blog/algorithm/Radix%20Sort.html)
 - [[정렬] 7. 한 살도 이해하는 기수 정렬(radix sort)](https://10000cow.tistory.com/entry/%EC%A0%95%EB%A0%AC-7-%EA%B8%B0%EC%88%98-%EC%A0%95%EB%A0%ACradix-sort) -[기수 정렬(Radix Sort)](https://sorjfkrh5078.tistory.com/21)
+- [[알고리즘] 기수 정렬(Radix Sort)](https://hongcoding.tistory.com/187)
