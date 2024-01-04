@@ -55,7 +55,7 @@ for(int i=1; i<n; i++) {
 
 <br>
 
-**📢 시간복잡도 O(log n)**
+**📢 시간복잡도 O(nlog n)**
 
 
 ![image](https://github.com/SeoYeonBae/CS_study/assets/63834758/2ff096e0-588d-46ee-a82e-a50923deb3dd)
