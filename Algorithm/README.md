@@ -34,9 +34,9 @@
 - [DFS & BFS](https://github.com/SeoYeonBae/CS_study/issues/95)
 - [다익스트라 알고리즘에 대해서 설명해 주세요.](https://github.com/SeoYeonBae/CS_study/issues/96)
 - [프림 알고리즘에 대해서 설명해 주세요.](https://github.com/SeoYeonBae/CS_study/issues/97)
-- [크루스칼 알고리즘과 프림 알고리즘에 대해서 설명해 주세요.](크루스칼과 프림의 차이점에 대해서 설명해 주세요.)
-- [인접행렬과 인접리스트에 대해 설명하시오](크루스칼과 프림의 차이점에 대해서 설명해 주세요.)
-- [HashTable vs HashMap의 차이점에 대해 설명하시오](크루스칼과 프림의 차이점에 대해서 설명해 주세요.)
+- [크루스칼 알고리즘과 프림 알고리즘에 대해서 설명해 주세요.](https://github.com/SeoYeonBae/CS_study/issues/98)
+- [인접행렬과 인접리스트에 대해 설명하시오](https://github.com/SeoYeonBae/CS_study/issues/99)
+- [HashTable vs HashMap의 차이점에 대해 설명하시오](https://github.com/SeoYeonBae/CS_study/issues/100)
 - 공간복잡도란?
 - 54321 배열이 있을 때, 어떤 정렬을 사용하면 좋을까요?
 - 랜덤으로 배치된 배열이 있을때, 어떤 정렬을 사용하면 좋을까요?
