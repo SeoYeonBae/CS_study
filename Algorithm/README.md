@@ -40,6 +40,6 @@
 - [공간복잡도란?](https://github.com/SeoYeonBae/CS_study/issues/101)
 - [54321 배열이 있을 때, 어떤 정렬을 사용하면 좋을까요?](https://github.com/SeoYeonBae/CS_study/issues/102)
 - [랜덤으로 배치된 배열이 있을때, 어떤 정렬을 사용하면 좋을까요?](https://github.com/SeoYeonBae/CS_study/issues/103)
-- 자릿수가 모두 같은 수가 담긴 배열이 있을 때, 어떤 정렬을 사용하면 좋을까요?
-- Dynamic Programming가 무엇이고 왜 어떻게 사용하는가?
-- Memoization 에 대해 설명하시오
+- [자릿수가 모두 같은 수가 담긴 배열이 있을 때, 어떤 정렬을 사용하면 좋을까요?](https://github.com/SeoYeonBae/CS_study/issues/104)
+- [Dynamic Programming가 무엇이고 왜 어떻게 사용하는가?](https://github.com/SeoYeonBae/CS_study/issues/105)
+- [Memoization 에 대해 설명하시오](https://github.com/SeoYeonBae/CS_study/issues/106)
