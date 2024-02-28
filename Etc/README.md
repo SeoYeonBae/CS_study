@@ -9,7 +9,6 @@
 - 싱글톤의 개념과 사용경험
 - shared instance의 장단점
 - Generic
-- PKI
 - 공유자원을 동시에 접근하면 왜 안되는가?
 - GC, ARC의 개념
 - 왜 GC를 런타임에 해야할까?
