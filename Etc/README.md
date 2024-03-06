@@ -5,11 +5,11 @@
 - [reference와 value는 각각 어디에 메모리 할당되는가](https://github.com/SeoYeonBae/CS_study/issues/109)
 - [heap, stack에 메모리 할당하는 것 중 어떤 것이 더 빠른가? 그 이유는?](https://github.com/SeoYeonBae/CS_study/issues/110)
 - [TDD (도입한 이유, 느낀점, 테스트코드를 고쳐야할 때도 있을텐데?)](https://github.com/SeoYeonBae/CS_study/issues/111)
-- CRUD 개념과 구현해본 경험
-- 싱글톤의 개념과 사용경험
-- shared instance의 장단점
-- Generic
-- 공유자원을 동시에 접근하면 왜 안되는가?
+- [CRUD 개념과 구현해본 경험](https://github.com/SeoYeonBae/CS_study/issues/112)
+- [싱글톤의 개념과 사용경험](https://github.com/SeoYeonBae/CS_study/issues/113)
+- [shared instance의 장단점](https://github.com/SeoYeonBae/CS_study/issues/114)
+- [자바에서의 Generic이란?](https://github.com/SeoYeonBae/CS_study/issues/115)
+- [공유자원을 동시에 접근하면 왜 안되는가?](https://github.com/SeoYeonBae/CS_study/issues/116)
 - GC, ARC의 개념
 - 왜 GC를 런타임에 해야할까?
 - Retain Cycle
