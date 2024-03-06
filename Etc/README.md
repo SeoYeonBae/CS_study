@@ -10,10 +10,8 @@
 - [shared instance의 장단점](https://github.com/SeoYeonBae/CS_study/issues/114)
 - [자바에서의 Generic이란?](https://github.com/SeoYeonBae/CS_study/issues/115)
 - [공유자원을 동시에 접근하면 왜 안되는가?](https://github.com/SeoYeonBae/CS_study/issues/116)
-- GC, ARC의 개념
+- GC의 개념
 - 왜 GC를 런타임에 해야할까?
-- Retain Cycle
-- GC로 Retaind cycle을 피할 수 있을까?
 - 여러 언어에서 다중상속을 지원하지 않는이유
 - 현실세계에서는 다중상속이 가능한데 왜 프로그래밍 언어에서는 안될까?
 - 다중상속을 하면 어떤 문제가 발생하는가, 어떻게 해결할 수 있나?
