@@ -15,10 +15,10 @@
 - [여러 언어에서 다중상속을 지원하지 않는이유](https://github.com/SeoYeonBae/CS_study/issues/119)
 - [현실세계에서는 다중상속이 가능한데 왜 프로그래밍 언어에서는 안될까?](https://github.com/SeoYeonBae/CS_study/issues/120)
 - [다중상속을 하면 어떤 문제가 발생하는가, 어떻게 해결할 수 있나?](https://github.com/SeoYeonBae/CS_study/issues/121)
-- 객체 불변성의 개념과 필요성
-- if를 지양하는 것이 좋은데 그 이유과 극복방법
-- 프레임워크와 라이브러리 차이는 무엇인가요?
-- 컴파일러와 인터프리터의 차이는 무엇인가요?
+- [객체 불변성의 개념과 필요성](https://github.com/SeoYeonBae/CS_study/issues/122)
+- [if를 지양하는 것이 좋은데 그 이유과 극복방법](https://github.com/SeoYeonBae/CS_study/issues/123)
+- [프레임워크와 라이브러리 차이는 무엇인가요?](https://github.com/SeoYeonBae/CS_study/issues/124)
+- [컴파일러와 인터프리터의 차이는 무엇인가요?](https://github.com/SeoYeonBae/CS_study/issues/125)
 - 클래스, 객체, 인스턴스 차이에 대해서 설명해 주세요.
 - 순수 추상 클래스와 인터페이스의 차이는 무엇인가요?
 - 디자인 패턴이란 무엇인가요?
